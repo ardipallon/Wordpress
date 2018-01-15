@@ -1,0 +1,307 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201801 will be lost/reset.
+# Last config file used to build this data file was /home/ardipallon/tmp/awstats/awstats.ap.ikt.khk.ee.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2681                
+POS_VISITOR 6428                
+POS_DAY 6699                
+POS_DOMAIN 3267                
+POS_LOGIN 3499                
+POS_ROBOT 3654                
+POS_WORMS 3819                
+POS_EMAILSENDER 3950                
+POS_EMAILRECEIVER 4093                
+POS_SESSION 6856                
+POS_SIDER 7030                
+POS_FILETYPES 4228                
+POS_DOWNLOADS 4493                
+POS_OS 4541                
+POS_BROWSER 4646                
+POS_SCREENSIZE 4756                
+POS_UNKNOWNREFERER 4830                
+POS_UNKNOWNREFERERBROWSER 4980                
+POS_ORIGIN 5125                
+POS_SEREFERRALS 5263                
+POS_PAGEREFS 5407                
+POS_SEARCHWORDS 5555                
+POS_KEYWORDS 5707                
+POS_MISC 2345                
+POS_ERRORS 5766                
+POS_CLUSTER 3355                
+POS_SIDER_404 5875                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180111113802 183 40132 11587756779880
+FirstTime 0
+LastTime 20180111113802
+LastUpdate 20180111141547 183 0 183 0 0
+TotalVisits 9                   
+TotalUnique 4                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 4                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 1 1 1331
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 121 207 4872628 25 28 48
+9 124 180 2835568 10 15 6551
+10 64 64 216190 2 8 48
+11 89 89 91243 0 2 0
+12 16 16 16861 0 1 0
+13 11 11 8156 0 1 0
+14 47 47 6050 0 3 0
+15 47 47 9754 0 2 0
+16 44 124 2378444 6 8 63331
+17 3 3 95 0 0 0
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 86 144 7447674 24 28 72
+21 89 168 5755278 40 41 48
+22 0 0 0 0 0 0
+23 5 7 919858 1 2 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ee 746 1107 24557799
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+netcraft 1 1331 20180105014144 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+woff2 9 66624 0 0
+png 41 1723267 0 0
+svg 2 3160 0 0
+gif 5 5781 0 0
+woff 1 17484 0 0
+jpg 24 1019114 0 0
+Unknown 1 582 0 0
+css 146 414458 0 0
+js 143 2073156 0 0
+html 50 1926923 0 0
+php 685 17307250 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 3
+macosx 7 5
+Unknown 13 13
+winnt 1087 728
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 3
+safari11.0.2 7 5
+Unknown 13 13
+chrome63.0.3239.132 1087 728
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+WordPress/4.9.1;_http://ap.ikt.khk.ee/wordpress 20180110090758
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+WordPress/4.9.1;_http://ap.ikt.khk.ee/wordpress 20180110090758
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 165 165
+From1 0 0
+From2 0 0
+From3 0 0
+From4 581 942
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 25 69810
+302 41 0
+500 67 288
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 3
+/robots.txt 23 -
+/wordpress/wp-admin/images/more-2x.png 1 http://ap.ikt.khk.ee/wordpress/wp-admin/post.php
+/wordpress/wp-content/wp-admin/images/xit.gif 1 http://ap.ikt.khk.ee/wordpress/wp-content/plugins/booking/core/any/css/admin-support.css
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 4
+193.40.62.14 507 649 8056450 20180111113802 20180111092447 /PHP/andmebaas.php
+80.235.122.130 221 438 15581491 20180106212004
+193.40.62.9 13 13 0 20180110090758
+90.191.98.23 5 7 919858 20180106231615
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 4
+20180106 227 446 16501349 4
+20180109 54 54 44108 1
+20180110 386 528 7958897 3
+20180111 79 79 53445 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+1h+ 2
+30mn-1h 3
+0s-30s 2
+15mn-30mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 51
+/wordpress/wp-admin/admin-ajax.php 305 1068990 0 3
+/PHP/sisend.php 75 17048 0 1
+/PHP/andmebaas.php 44 42597 0 0
+/PHP/massiivid2.php 27 20393 0 0
+/PHP/salvestus.php 24 1825 1 0
+/PHP/aeg.php 23 6801 1 0
+/wordpress/wp-admin/post.php 21 6096898 0 0
+/wordpress/ 18 805825 0 0
+/wordpress/kolmas-postitus/ 17 533174 0 0
+/PHP/massiivid.php 16 15559 1 0
+/wordpress/wp-admin/customize.php 13 3948882 0 0
+/wordpress/wp-admin/themes.php 13 689218 0 0
+/wordpress/wp-cron.php 13 0 2 2
+/wordpress/wp-admin/load-scripts.php 12 486794 0 1
+/wordpress/wp-admin/edit.php 11 594004 0 0
+/PHP/vormid.php 11 8156 0 1
+/wordpress/wp-admin/index.php 10 730714 0 0
+/wordpress/wp-admin/plugin-install.php 9 816859 0 0
+/wordpress/wp-content/themes/astrid/fonts/fontawesome-webfont.woff2 8 66624 0 0
+/PHP/valjund.php 7 978 0 0
+/wordpress/jargmine-lehe-teema/ 6 152492 0 0
+/wordpress/wp-login.php 6 16824 4 0
+/wordpress/wp-admin/update-core.php 6 167535 0 0
+/wordpress/wp-admin/plugins.php 6 280314 0 0
+/wordpress/wp-admin/load-styles.php 5 355686 0 0
+/wordpress/wp-admin/options-permalink.php 2 68253 0 0
+/wordpress/wp-admin/ 1 69662 0 0
+/wordpress/teine-postitus/ 3 107952 0 0
+/wordpress/wp-content/plugins/booking/assets/libs/bootstrap/fonts/glyphicons-halflings-regular.woff2 1 0 0 0
+/wordpress/wp-admin/users.php 2 77627 0 0
+/wordpress/wp-admin/update.php 2 31912 0 0
+/wordpress/wp-admin/profile.php 2 82521 0 0
+/wordpress/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 1 17484 0 0
+/wordpress/wp-admin/edit-comments.php 1 51978 0 0
+/wordpress/esimene-postitus/ 2 79693 0 0
+/wordpress/wp-admin/edit-tags.php 2 88672 0 0
+/wordpress/wp-admin/async-upload.php 1 1410 0 0
+/wordpress/wp-admin/about.php 1 36326 0 0
+/wordpress/wp-admin/options-general.php 2 132446 0 0
+/wordpress/wp-admin/post-new.php 2 554534 0 0
+/wordpress/wp-json/oembed/1.0/proxy 1 582 0 0
+/wordpress/wp-admin/widgets.php 1 373408 0 0
+/wordpress/wp-admin/options-reading.php 2 60044 0 0
+/wordpress/kiirklahvid/ 1 49188 0 0
+/wordpress/pealkiri/ 1 63923 0 0
+/wordpress/wp-admin/options-media.php 1 28023 0 0
+/wordpress/wp-admin/theme-install.php 3 131001 0 0
+/wordpress/demoleht/ 1 65014 0 0
+/wordpress/wp-admin/options-discussion.php 2 73894 0 0
+/wordpress/wp-admin/user-new.php 1 31499 0 0
+/wordpress/wp-admin/admin.php 1 117627 0 0
+END_SIDER

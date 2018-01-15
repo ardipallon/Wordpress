@@ -1,0 +1,47 @@
+body {
+    font-family: "Times New Roman", Serif;
+}
+header, nav, section, footer {
+    display: block;
+    border: solid;
+    margin: 1px;
+}
+/*nav {
+    height: 50px;
+}*/
+a {
+    text-decoration:inherit;
+}
+.menu {
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+.menu li {
+    float: left;
+    background-color: greenyellow;
+}
+.menu li a {
+    display: block;
+    border: solid;
+    padding: 10px;
+    color: crimson;
+}
+.ained {
+    list-style-type: none;
+    overflow: hidden;
+    margin: 5px;
+    padding: 0;
+}
+.ained li {
+    float: left;
+    padding: 15px;
+}
+.ained li a {
+    display: block;
+    border: solid;
+    padding: 10px;
+    color: Green;
+    background-color: Yellow;
+}

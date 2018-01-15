@@ -1,0 +1,1079 @@
+CACHE type 5 produced by analog 6.0/Unix. Do not modify or delete!
+T	0	0	9941	117	71	262	227727252
+D	25086876	25262618
+17421	127	15	14	16662
+17491	116	9	1	137311
+17491	145	18	2	177534
+17491	151	5	1	10423875
+17491	156	1	1	1159
+17491	157	11	2	913316
+17491	158	12	2	942670
+17498	103	21	3	648022
+17498	104	11	0	301333
+17498	105	33	0	2490932
+17498	106	81	1	4591731
+17498	107	5	0	235
+17498	108	5	0	43784
+17498	109	5	0	235
+17498	110	5	0	235
+17498	111	7	0	145692
+17498	112	5	0	235
+17498	113	5	0	235
+17498	114	5	0	235
+17498	115	6	0	56115
+17498	116	3	0	141
+17498	117	2	0	94
+17498	118	7	0	224767
+17498	119	3	0	141
+17498	120	1	0	47
+17500	128	11	1	386162
+17500	151	10	2	150541
+17500	152	4	0	188
+17500	153	5	0	235
+17500	154	5	0	48000
+17500	155	3	0	141
+17500	156	15	0	273858
+17500	157	4	0	188
+17500	158	17	1	1038741
+17500	159	8	0	119788
+17500	160	4	0	188
+17500	161	3	0	141
+17500	162	3	0	141
+17500	163	4	0	188
+17500	164	2	0	94
+17500	165	5	0	235
+17500	166	3	0	141
+17500	167	4	0	188
+17500	168	1	0	47
+17500	169	1	0	47
+17507	107	14	2	318179
+17507	108	34	0	967028
+17507	109	23	0	2655
+17507	110	26	1	541866
+17507	111	41	3	1212736
+17507	112	8	0	148609
+17507	113	13	1	321997
+17507	114	5	0	235
+17507	115	5	0	235
+17507	116	5	0	235
+17507	117	2	0	94
+17507	139	2	0	48
+17507	144	11	2	272152
+17507	145	19	0	548717
+17507	146	4	0	188
+17507	147	3	0	141
+17507	148	5	0	235
+17507	149	11	0	171552
+17507	153	2	0	94
+17507	154	2	0	94
+17507	155	2	0	94
+17507	156	4	0	188
+17507	157	4	0	188
+17507	158	4	0	141
+17507	159	15	0	203558
+17507	160	3	0	141
+17507	161	2	0	94
+17507	162	2	0	94
+17507	163	3	0	141
+17507	164	3	0	141
+17507	165	3	0	141
+17507	166	3	0	141
+17507	167	4	0	188
+17507	168	2	0	94
+17507	169	3	0	141
+17507	170	5	0	235
+17507	171	3	0	141
+17507	174	11	1	409620
+17507	175	2	1	56608
+17507	222	2	2	109780
+17508	102	2	0	23
+17511	243	2	1	54250
+17512	150	1	0	89
+17512	170	20	1	589150
+17512	171	3	0	141
+17512	172	8	0	132972
+17512	173	38	5	1551540
+17512	174	15	0	57995
+17512	175	8	0	376
+17512	176	2	0	94
+17512	177	23	8	708977
+17512	178	4	0	188
+17512	179	8	0	376
+17512	180	12	0	411700
+17512	181	3	0	141
+17512	182	3	0	141
+17512	183	8	0	248242
+17512	184	2	0	94
+17512	185	3	0	141
+17512	186	2	0	94
+17512	187	3	0	141
+17513	123	6	1	98065
+17513	124	7	0	106147
+17513	125	4	0	188
+17513	126	9	0	157233
+17513	127	5	0	235
+17513	128	10	0	181740
+17513	129	8	0	113560
+17513	130	5	0	235
+17513	131	23	0	510192
+17513	132	8	0	113560
+17513	133	3	0	141
+17513	134	1	0	47
+17513	135	4	0	188
+17513	136	5	0	57692
+17513	137	2	0	94
+17513	138	4	0	188
+17513	139	4	0	55915
+17513	140	3	0	141
+17513	141	1	0	47
+17513	171	12	1	412158
+17514	106	1	0	43
+17514	107	32	0	1433
+17514	108	3	0	365
+17514	110	22	0	1965
+17514	111	133	0	11790
+17514	112	184	0	21597
+17514	113	99	0	14282
+17514	114	138	0	21325
+17514	115	140	0	21706
+17514	116	142	0	21483
+17514	117	234	0	23833
+17514	118	232	0	23751
+17514	119	227	0	23802
+17514	120	1	0	150
+17516	126	1	0	71
+17516	128	1	0	296
+17516	130	1	0	331
+17516	131	7	0	159902409
+17516	132	1	0	324
+17516	133	1	0	332
+17516	134	5	0	1377
+17516	135	2	0	435
+17516	136	600	0	152935
+17516	137	979	0	249645
+17516	138	942	0	240210
+17516	139	974	0	248370
+17516	140	170	0	46968
+17516	143	3	0	912
+17516	144	700	0	1152200
+17516	145	940	0	1547240
+17516	146	596	0	981016
+17516	149	1	0	0
+17516	150	3	0	330
+17519	176	5	0	344
+17519	177	4	0	866
+17519	178	2	0	1134
+17519	182	2	0	0
+17519	183	3	0	245
+17520	105	2	0	363
+17520	106	1	0	197
+17520	107	2	0	544
+17520	108	1	0	313
+17520	111	1	0	131
+17520	113	3	0	159
+17520	114	5	1	56962
+17520	115	3	0	540
+17520	116	2	0	1374
+17520	119	2	0	1874
+17520	122	22	0	681248
+17520	123	3	0	141
+17520	124	3	0	141
+17520	125	19	0	342145
+17520	126	76	0	1863231
+17520	127	4	0	188
+17520	128	5	0	235
+17520	129	5	0	235
+17520	130	5	0	235
+17520	131	38	0	309984
+17520	132	69	1	949505
+17520	133	9	0	72269
+17520	134	3	0	141
+17520	135	4	0	188
+17520	136	5	0	235
+17520	137	2	0	94
+17531	158	2	1	60050
+17532	251	4	2	120307
+17537	20	1	1	1331
+17538	200	102	1	1405273
+17538	201	14	3	972795
+17538	202	6	0	282
+17538	203	2	0	94
+17538	204	3	0	95
+17538	247	7	1	443023
+17538	248	8	0	229433
+17538	249	34	0	1660862
+17538	250	84	2	5100495
+17538	251	11	0	13861
+17538	252	44	2	1528725
+17538	253	63	10	2506708
+17538	254	37	7	317310
+17538	255	23	6	1402488
+17538	256	1	0	47
+17538	279	7	0	919858
+17541	127	3	0	2238
+17541	130	2	0	1143
+17541	131	2	0	2012
+17541	132	2	0	2138
+17541	133	3	0	3385
+17541	139	2	0	2312
+17541	140	3	0	2432
+17541	141	2	0	253
+17541	142	4	0	1112
+17541	143	4	0	2066
+17541	149	4	0	1568
+17541	151	4	0	3077
+17541	153	2	0	2584
+17541	154	6	0	9632
+17541	163	2	0	0
+17541	164	5	0	0
+17541	165	2	0	2717
+17541	166	2	0	5439
+17542	102	11	0	158135
+17542	103	14	0	408661
+17542	104	21	0	661870
+17542	105	12	0	631308
+17542	106	74	2	1685307
+17542	107	75	3	1327347
+17542	108	77	10	1484705
+17542	109	45	3	988815
+17542	110	12	0	280574
+17542	111	6	0	384
+17542	112	3	0	141
+17542	113	2	0	94
+17542	114	1	0	47
+17542	116	1	0	47
+17542	119	3	0	71996
+17542	120	3	0	141
+17542	121	4	0	188
+17542	122	4	0	188
+17542	123	3	0	141
+17542	124	9	0	133105
+17542	125	6	0	72137
+17542	126	4	0	188
+17542	127	3	0	141
+17542	128	2	0	94
+17542	129	2	0	94
+17542	130	4	0	188
+17542	131	2	0	94
+17542	132	5	0	235
+17542	133	4	0	188
+17542	134	3	0	141
+17542	135	3	0	141
+17542	136	3	0	141
+17542	137	3	0	141
+17542	138	2	0	94
+17542	139	6	0	35783
+17542	140	2	0	99
+17542	174	22	0	0
+17542	175	23	0	5500
+17542	179	2	0	550
+17542	180	2	0	33
+17542	181	14	0	3575
+17542	182	21	0	4039
+17542	183	10	0	2107
+17543	112	1	0	0
+17543	113	6	0	730
+17543	115	7	0	3491
+17543	116	8	0	2011
+17543	117	5	0	2010
+17543	118	1	0	391
+17543	119	2	0	132
+17543	120	5	0	2083
+17543	125	2	0	561
+17543	126	4	0	1454
+17543	132	12	0	10658
+17543	133	1	0	710
+17543	134	2	0	1080
+17543	137	1	0	768
+17543	138	2	0	1364
+17543	139	20	0	26002
+1	3	0	0	0	25256116	0	0	25187622	0	0	4563	/wordpress/wp-admin/images/wordpress-logo.svg?ver=20131107
+1	1	0	0	0	25255970	0	0	25255970	0	0	232	/wordpress/wp-admin/customize.php?theme=cats456&return=http://ap.ikt.khk.ee/wordpress/wp-admin/themes.php
+1	1	0	0	0	25255969	0	0	25255969	0	0	209	/wordpress/wp-admin/customize.php?theme=graphene&return=http://ap.ikt.khk.ee/wordpress/wp-admin/themes.php
+1	10	0	0	0	25261023	0	0	25255973	0	0	683338	/wordpress/wp-content/themes/astrid/images/header.jpg
+1	1	1	0	0	25255992	0	0	25255992	0	0	50237	/wordpress/esimene-postitus/?customize_changeset_uuid=6960d6f1-e62b-4e01-bffe-3790a89bafcd&customize_theme=astrid&customize_messenger_channel=preview-5&customize_autosaved=on
+1	1	0	0	0	25261007	0	0	25261007	0	0	27717	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,jquery-ui-core,thickbox,plugin-install,underscore,wp-util,wp-a11y,updates&ver=4.9.1
+1	8	0	0	0	25260994	0	0	25229431	0	0	1252	/wordpress/wp-content/plugins/booking/assets/img/icon-16x16.png
+1	1	0	0	0	25255973	0	0	25255973	0	0	116270	/wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load[]=dashicons,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-pointer,widgets,site-icon&load[]=,l10n,buttons,customize-controls,customize-widgets,wp-color-picker,customize-nav-menus,media-views,code-editor&ver=4.9.1
+1	0	0	1	0	0	25210954	0	0	25210954	0	0	/wordpress
+1	1	0	0	0	25197652	0	0	25197652	0	0	171858	/wordpress/wp-content/uploads/2017/11/sandwich.jpg
+1	1	1	0	0	25086877	0	0	25086877	0	0	1134	/veeb/html/praks5/Tallinn.html
+1	1	0	0	0	25261007	0	0	25261007	0	0	90381	/wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load[]=dashicons,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-pointer,widgets,site-icon&load[]=,l10n,buttons&ver=4.9.1
+1	1	0	0	0	25261000	0	0	25261000	0	0	27823	/wordpress/wp-admin/update.php?action=upgrade-plugin&plugin=booking/wpdev-booking.php&_wpnonce=9172fe024d
+1	1	0	0	0	25200794	0	0	25200794	0	0	93540	/wordpress/wp-content/uploads/2017/11/espresso-1.jpg
+1	3	0	0	0	25255987	0	0	25218131	0	0	676456	/wordpress/wp-admin/post-new.php?post_type=page
+1	1	0	0	0	25261012	0	0	25261012	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1515567146.3867299556732177734375
+1	3	3	0	0	25261023	0	0	25255988	0	0	75714	/wordpress/jargmine-lehe-teema/
+1	1	0	0	0	25255974	0	0	25255974	0	0	542353	/wordpress/wp-admin/customize.php?return=/wordpress/wp-admin/themes.php&autofocus[control]=background_image
+1	1	1	0	0	25086877	0	0	25086877	0	0	1149	/veeb/html/praks5/Tartu.html
+1	2	0	0	0	25210619	0	0	25200756	0	0	77184	/wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load[]=dashicons,buttons,forms,l10n,login&ver=4.9
+1	3	0	0	0	25255965	0	0	25197640	0	0	77801	/wordpress/wp-admin/options-media.php
+1	1	0	0	0	25255975	0	0	25255975	0	0	178	/wordpress/wp-includes/js/imgareaselect/border-anim-v.gif
+1	1	0	0	0	25218146	0	0	25218146	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1512995176.1980578899383544921875
+1	1	0	0	0	25197652	0	0	25197652	0	0	9751	/wordpress/wp-includes/js/mce-view.min.js?ver=4.9
+1	1	0	0	0	25187765	0	0	25187765	0	0	8072	/img-sys/error-bg-left.png
+1	5	0	0	0	25255721	0	0	25229431	0	0	6595	/wordpress/wp-content/plugins/booking/core/any/css/admin-menu.css?ver=8.1
+1	1	0	0	0	25210628	0	0	25210628	0	0	0	/wordpress/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=word
+1	1	0	0	0	25197652	0	0	25197652	0	0	733	/wordpress/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=4.9
+1	1	0	0	0	25197652	0	0	25197652	0	0	12373	/wordpress/wp-includes/js/media-audiovideo.min.js?ver=4.9
+1	1	1	0	0	25255991	0	0	25255991	0	0	47109	/wordpress/?customize_changeset_uuid=6960d6f1-e62b-4e01-bffe-3790a89bafcd&customize_theme=astrid&customize_messenger_channel=preview-2&customize_autosaved=on
+1	1	0	0	0	25255995	0	0	25255995	0	0	541584	/wordpress/wp-admin/customize.php?url=http://ap.ikt.khk.ee/wordpress/kolmas-postitus/
+1	1	0	0	0	25218145	0	0	25218145	0	0	135647	/wordpress/wp-admin/post.php?post=30&action=edit&message=6
+1	1	0	0	0	25255982	0	0	25255982	0	0	9737	/wordpress/wp-admin/js/image-edit.min.js?ver=4.9.1
+1	1	0	0	0	25261012	0	0	25261012	0	0	293240	/wordpress/wp-admin/post.php?post=30&action=edit&message=1
+1	0	0	0	1	0	0	25260993	0	0	25260993	0	/robots.txt?45.58.117.232
+1	2239	0	0	0	25223773	0	0	25223757	0	0	3681368	/PHP/varv.php
+1	13	0	0	0	25261026	0	0	25229431	0	0	58332	/wordpress/wp-content/plugins/booking/assets/libs/bootstrap/css/bootstrap-theme.css?ver=3.3.5.1
+1	1	0	0	0	25218196	0	0	25218196	0	0	31839	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,jquery-ui-core,thickbox,plugin-install,underscore,wp-util,wp-a11y,updates,svg-painter&ver=4.9.1
+1	5	0	0	0	25255721	0	0	25229431	0	0	20184	/wordpress/wp-content/plugins/booking/css/calendar.css?ver=8.1
+1	1	0	0	0	25255967	0	0	25255967	0	0	21640	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,password-strength-meter,underscore,wp-util,user-profile,svg-painter,heartbeat,wp-auth-check&ver=4.9.1
+1	1	0	0	0	25197640	0	0	25197640	0	0	12541	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,svg-painter,heartbeat,wp-auth-check&ver=4.9
+1	1	0	0	0	25210623	0	0	25210623	0	0	77873	/wordpress/wp-admin/load-scripts.php?c=1&load[]=jquery-core,jquery-migrate,utils,moxiejs,plupload&ver=4.9.1
+1	4	0	0	0	25255721	0	0	25210623	0	0	1193	/wordpress/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=4.9.1
+1	1	0	0	0	25255979	0	0	25255979	0	0	2977	/wordpress/wp-content/uploads/2018/01/16_UserExperiencesEvolvingthebluee_5.gif
+1	1	0	0	0	25255967	0	0	25255967	0	0	39069	/wordpress/wp-admin/users.php?update=add&id=2
+1	2	0	0	0	25255724	0	0	25210623	0	0	40376	/wordpress/wp-includes/js/tinymce/skins/lightgray/skin.min.css?wp-mce-4607-20171116
+1	17	17	4	5	25261023	25187829	25187827	25197635	25187622	25187823	740016	/wordpress/
+1	1	0	0	0	25261026	0	0	25261026	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1515567979.3198199272155761718750
+1	1	0	0	0	25210619	0	0	25210619	0	0	27645	/wordpress/wp-admin/update-core.php?action=do-core-upgrade
+1	1	0	0	0	25255982	0	0	25255982	0	0	1179	/wordpress/wp-includes/js/jquery/jquery.ui.touch-punch.js?ver=0.2.2
+1	1	0	0	0	25200782	0	0	25200782	0	0	67407	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,wp-ajax-response,jquery-color,wp-lists,quicktags,jquery-query,admin-comments,jquery-ui-core,jquery-&load[]=ui-widget,jquery-ui-mouse,jquery-ui-sortable,postbox,underscore,wp-util,wp-a11y,dashboard,thickbox,plugin-install,updates,shortc&load[]=ode,media-upload,svg-painter,heartbeat,wp-auth-check&ver=4.9
+1	5	0	0	0	25255721	0	0	25229431	0	0	18028	/wordpress/wp-content/plugins/booking/assets/libs/bootstrap/fonts/glyphicons-halflings-regular.woff2
+1	1	0	0	0	25255982	0	0	25255982	0	0	9751	/wordpress/wp-includes/js/mce-view.min.js?ver=4.9.1
+1	13	0	0	0	25261026	0	0	25229431	0	0	138252	/wordpress/wp-content/plugins/booking/assets/libs/bootstrap/js/bootstrap.js?ver=3.3.5.1
+1	1	0	0	0	25210620	0	0	25210620	0	0	33038	/wordpress/wp-admin/about.php?updated
+1	5	0	0	0	25255721	0	0	25229431	0	0	9800	/wordpress/wp-content/plugins/booking/core/any/css/admin-listing-table.css?ver=8.1
+1	1	0	0	0	25197652	0	0	25197652	0	0	210677	/wordpress/wp-includes/js/tinymce/wp-tinymce.php?c=1&ver=4607-20171116
+1	1	0	0	0	25197652	0	0	25197652	0	0	653	/wordpress/wp-includes/js/wp-a11y.min.js?ver=4.9
+1	1	0	0	0	25197652	0	0	25197652	0	0	100519	/wordpress/wp-includes/js/media-views.min.js?ver=4.9
+1	1	0	0	0	25210805	0	0	25210805	0	0	95801	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,underscore,shortcode,backbone,wp-util,wp-backbone,media-models,wp-plupload,jquery-ui-core,jquery-ui&load[]=-widget,jquery-ui-mouse,jquery-ui-sortable,wp-mediaelement,wp-api-request,media-views,media-editor,media-audiovideo,mce-view,img&load[]=areaselect,image-edit,media-grid,media,svg-painter,heartbeat,wp-auth-check&ver=4.9.1
+1	7	0	11	0	25260994	25260994	0	25187830	25187830	0	18222	/wordpress/wp-login.php
+1	16	0	0	0	25255987	0	0	25197648	0	0	667915	/wordpress/wp-admin/edit.php?post_type=page
+1	1	0	0	0	25210628	0	0	25210628	0	0	0	/wordpress/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=kiir
+1	3	0	0	0	25255720	0	0	25210623	0	0	5316	/wordpress/wp-includes/js/thickbox/thickbox.css?ver=4.9.1
+1	1	0	0	0	25187768	0	0	25187768	0	0	2699	/wordpress/wp-admin/setup-config.php?step=1&language=et
+1	2	2	0	0	25255996	0	0	25255988	0	0	51251	/wordpress/jargmine-lehe-teema/?preview_id=45&preview_nonce=dadeae4cd1&_thumbnail_id=-1&preview=true
+1	2	0	0	0	25229413	0	0	25218180	0	0	158144	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,wp-ajax-response,jquery-color,wp-lists,quicktags,jquery-query,admin-comments,jquery-ui-core,jquery-&load[]=ui-widget,jquery-ui-mouse,jquery-ui-sortable,postbox,underscore,wp-util,wp-a11y,dashboard,thickbox,plugin-install,updates,shortc&load[]=ode,media-upload,svg-painter,heartbeat,wp-auth-check,wplink,jquery-ui-position,jquery-ui-menu,jquery-ui-autocomplete&ver=4.9.1
+1	11	0	0	0	25261026	0	0	25229431	0	0	196604	/wordpress/wp-content/plugins/booking/js/datepick/jquery.datepick.js?ver=1.1
+1	1	0	0	0	25261007	0	0	25261007	0	0	24480	/wordpress/wp-admin/plugin-install.php?tab=plugin-information&plugin=wpml-to-polylang&
+1	1	0	0	0	25217059	0	0	25217059	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1512929948.3874599933624267578125
+1	2	0	0	0	25255721	0	0	25210637	0	0	1440	/wordpress/wp-admin/js/widgets/media-audio-widget.min.js?ver=4.9.1
+1	0	0	1	0	0	25255969	0	0	25255969	0	0	/wordpress/wp-admin/themes.php?action=activate&_wpnonce=f9def2af62&stylesheet=graphene
+1	1	0	0	0	25261027	0	0	25261027	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1515568078.3991830348968505859375
+1	1	0	0	0	25210637	0	0	25210637	0	0	1046	/wordpress/wp-includes/js/wp-util.min.js?ver=4.9.1
+1	1	0	0	0	25200791	0	0	25200791	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1511953863.1581189632415771484375
+1	1	0	0	0	25197638	0	0	25197638	0	0	572	/wordpress/wp-admin/admin-ajax.php?action=wp-compression-test&test=2&_ajax_nonce=b96d9ec627&1511764727459
+1	1	0	0	0	25197648	0	0	25197648	0	0	27427	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,jquery-ui-core,jquery-ui-widget,jquery-ui-position,jquery-ui-menu,wp-a11y,jquery-ui-autocomplete,ta&load[]=gs-suggest,inline-edit-post,heartbeat,svg-painter,wp-auth-check&ver=4.9
+1	4	0	0	0	25255985	0	0	25210647	0	0	813205	/wordpress/wp-admin/post.php?post=2&action=edit
+1	4	0	0	0	25255721	0	0	25197652	0	0	6170	/wordpress/wp-includes/js/mediaelement/renderers/vimeo.min.js?ver=4.2.6-78496d1
+1	1	1	0	0	25255958	0	0	25255958	0	0	65014	/wordpress/demoleht/?preview_id=2&preview_nonce=2f7148d95b&_thumbnail_id=-1&preview=true
+1	9	0	0	0	25261013	0	0	25255973	0	0	6359	/wordpress/wp-content/themes/astrid/css/bootstrap/bootstrap.min.css?ver=1
+1	1	0	0	0	25200771	0	0	25200771	0	0	47483	/wordpress/wp-admin/edit-comments.php?comment_status=all
+1	1	0	0	0	25197652	0	0	25197652	0	0	21640	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,password-strength-meter,underscore,wp-util,user-profile,svg-painter,heartbeat,wp-auth-check&ver=4.9
+1	1	1	0	0	25255995	0	0	25255995	0	0	49838	/wordpress/kolmas-postitus/?customize_changeset_uuid=fedd084a-24b0-4578-b2d4-995ccab93e9d&customize_theme=astrid&customize_messenger_channel=preview-0
+1	8	0	0	0	25255972	0	0	25255970	0	0	738	/wordpress/wp-content/themes/sg-window/inc/css/admin.css?ver=4.9.1
+1	2	0	0	0	25255721	0	0	25197647	0	0	363833	/wordpress/wp-content/themes/twentyseventeen/screenshot.png
+1	1	0	0	0	25256116	0	0	25256116	0	0	41610	/wordpress/wp-admin/load-scripts.php?c=1&load[]=utils,jquery-core,jquery-migrate,zxcvbn-async&ver=4.9.1
+1	1	0	0	0	25197652	0	0	25197652	0	0	15237	/wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load[]=media-views,editor-buttons,code-editor&ver=4.9
+1	1	0	0	0	25255724	0	0	25255724	0	0	280026	/wordpress/wp-admin/post.php?post=38&action=edit&message=6
+1	1	0	0	0	25261013	0	0	25261013	0	0	290423	/wordpress/wp-admin/post.php?post=32&action=edit
+1	1	0	0	0	25261023	0	0	25261023	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1515567809.6548850536346435546875
+1	1	0	0	0	25261019	0	0	25261019	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1515567569.4511740207672119140625
+1	23	0	0	0	25262520	0	0	25262484	0	0	6801	/PHP/aeg.php
+1	2	0	1	0	25255966	25255967	0	25197645	25255967	0	59857	/wordpress/wp-admin/user-new.php
+1	3	0	0	0	25255721	0	0	25210637	0	0	13542	/wordpress/wp-admin/js/editor.min.js?ver=4.9.1
+1	5	0	0	0	25255721	0	0	25197648	0	0	156559	/wordpress/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.6-78496d1
+1	1	1	0	0	25253381	0	0	25253381	0	0	1331	/?45.58.117.232
+1	1	0	0	0	25218181	0	0	25218181	0	0	46850	/wordpress/wp-admin/edit-comments.php?comment_status=moderated
+1	1	0	0	0	25197648	0	0	25197648	0	0	102950	/wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load[]=dashicons,admin-bar,buttons,media-views,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menu&load[]=s,wp-pointer,widgets,site-icon,l10n,wp-auth-check&ver=4.9
+1	1	0	0	0	25261000	0	0	25261000	0	0	4089	/wordpress/wp-admin/update.php?action=activate-plugin&success=true&plugin=booking/wpdev-booking.php&_wpnonce=a5ebeeb7fd
+1	1	0	0	0	25197648	0	0	25197648	0	0	1193	/wordpress/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=4.9
+1	5	0	0	0	25255721	0	0	25229431	0	0	13838	/wordpress/wp-content/plugins/booking/assets/libs/chosen/chosen.css?ver=8.1
+1	1	0	0	0	25255982	0	0	25255982	0	0	5531	/wordpress/wp-includes/js/heartbeat.min.js?ver=4.9.1
+1	9	0	0	0	25261013	0	0	25255973	0	0	46707	/wordpress/wp-content/themes/astrid/style.css?ver=4.9.1
+1	1	0	0	0	25218032	0	0	25218032	0	0	89	/PHP/mina.php
+1	2	0	0	0	25255982	0	0	25197652	0	0	571449	/wordpress/wp-admin/widgets.php
+1	9	0	0	0	25261013	0	0	25255973	0	0	9451	/wordpress/wp-content/themes/astrid/js/main.js?ver=4.9.1
+1	1	0	0	0	25200781	0	0	25200781	0	0	46947	/wordpress/wp-admin/edit.php?post_status=trash&post_type=post
+1	1	1	0	0	25255988	0	0	25255988	0	0	25527	/wordpress/jargmine-lehe-teema/?preview=true
+1	1	0	0	0	25197652	0	0	25197652	0	0	3754	/wordpress/wp-content/themes/twentyseventeen/assets/js/navigation.js?ver=1.0
+1	4	0	0	0	25255721	0	0	25197652	0	0	377627	/wordpress/wp-includes/js/codemirror/csslint.js?ver=1.0.5
+1	1	0	0	0	25197652	0	0	25197652	0	0	9737	/wordpress/wp-admin/js/image-edit.min.js?ver=4.9
+1	1	1	0	0	25197652	0	0	25197652	0	0	113373	/wordpress/?customize_changeset_uuid=36713cde-93f7-4e52-9f1e-c5261cd0588c&customize_theme=twentyseventeen&customize_messenger_channel=preview-0
+1	1	1	0	0	25255725	0	0	25255725	0	0	107265	/wordpress/?customize_changeset_uuid=59feba29-115f-4680-8e3c-0caa3bee00be&customize_theme=twentyseventeen&customize_messenger_channel=preview-0
+1	1	1	0	0	25255992	0	0	25255992	0	0	49188	/wordpress/kiirklahvid/?customize_changeset_uuid=6960d6f1-e62b-4e01-bffe-3790a89bafcd&customize_theme=astrid&customize_messenger_channel=preview-6&customize_autosaved=on
+1	0	0	2	0	0	25219577	0	0	25200642	0	0	/wordpress?193.40.62.14
+1	1	0	0	0	25218145	0	0	25218145	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1512995145.6034801006317138671875
+1	3	0	0	0	25255721	0	0	25197652	0	0	35922	/wordpress/wp-content/themes/twentyseventeen/assets/css/colors-dark.css?ver=1.0
+1	9	0	0	0	25261013	0	0	25255973	0	0	27466	/wordpress/wp-content/themes/astrid/fonts/font-awesome.min.css?ver=4.9.1
+1	0	0	28	0	0	25261028	0	0	25210634	0	0	/wordpress/wp-admin/post.php
+1	281	0	0	0	25220759	0	0	25220744	0	0	7392	/PHP/kuud.php
+1	1	0	0	0	25229413	0	0	25229413	0	0	24495	/wordpress/wp-admin/update.php?action=upgrade-plugin&plugin=akismet/akismet.php&_wpnonce=6bc27b9813
+1	1	0	0	0	25255986	0	0	25255986	0	0	281652	/wordpress/wp-admin/post.php?post=2&action=edit&message=1
+1	6	0	0	0	25219577	0	0	25187622	0	0	60336	/wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+1	1	0	0	0	25200781	0	0	25200781	0	0	34325	/wordpress/wp-admin/edit.php?post_status=trash&post_type=post&paged=1&deleted=1
+1	0	0	1	0	0	25261000	0	0	25261000	0	0	/wordpress/wp-admin/update.php?action=activate-plugin&networkwide&plugin=booking/wpdev-booking.php&_wpnonce=a5ebeeb7fd
+1	1	0	0	0	25255966	0	0	25255966	0	0	22386	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,wp-ajax-response,password-strength-meter,underscore,wp-util,user-profile,svg-painter,heartbeat,wp-a&load[]=uth-check&ver=4.9.1
+1	5	0	0	0	25255995	0	0	25255973	0	0	644	/wordpress/wp-content/themes/astrid/inc/framework/js/colorpicker.js?ver=4.9.1
+1	2	0	0	0	25200794	0	0	25197652	0	0	232378	/wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load[]=dashicons,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-pointer,widgets,site-icon&load[]=,l10n,buttons,customize-controls,customize-widgets,customize-nav-menus,wp-color-picker,media-views,code-editor&ver=4.9
+1	1	0	0	0	25210623	0	0	25210623	0	0	141096	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,heartbeat,autosave,suggest,wp-ajax-response,jquery-color,wp-lists,jquery-ui-core,jquery-ui-widget,j&load[]=query-ui-mouse,jquery-ui-sortable,postbox,jquery-ui-position,jquery-ui-menu,wp-a11y,jquery-ui-autocomplete,tags-suggest,tags-box&load[]=,underscore,word-count,post,editor-expand,thickbox,shortcode,backbone,wp-util,wp-backbone,media-models,wp-plupload,wp-mediaeleme&load[]=nt,wp-api-request,media-views,media-editor,media-audiovideo,mce-view,imgareaselect,image-edit,svg-painter,wp-auth-check,editor,q&load[]=uicktags,wplink,media-upload,wp-embed&ver=4.9.1
+1	0	0	1	0	0	25255720	0	0	25255720	0	0	/wordpress/wp-admin/index.php?196.196.88.33
+1	2	0	0	0	25255724	0	0	25210623	0	0	3740	/wordpress/wp-includes/js/tinymce/skins/lightgray/content.min.css?wp-mce-4607-20171116
+1	1	0	0	0	25197651	0	0	25197651	0	0	79072	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,wp-ajax-response,jquery-color,wp-lists,quicktags,jquery-query,admin-comments,jquery-ui-core,jquery-&load[]=ui-widget,jquery-ui-mouse,jquery-ui-sortable,postbox,underscore,wp-util,wp-a11y,dashboard,thickbox,plugin-install,updates,shortc&load[]=ode,media-upload,svg-painter,heartbeat,wp-auth-check,wplink,jquery-ui-position,jquery-ui-menu,jquery-ui-autocomplete&ver=4.9
+1	2	0	0	0	25255964	0	0	25210644	0	0	70581	/wordpress/wp-admin/options-discussion.php
+1	14	0	0	0	25223712	0	0	25223682	0	0	159904688	/PHP/tsyklid.php
+1	1	0	0	0	25187765	0	0	25187765	0	0	3327	/img-sys/server_moved.png
+1	1	0	0	0	25210637	0	0	25210637	0	0	114018	/wordpress/wp-admin/load-scripts.php?c=1&load[]=heartbeat,customize-base,customize-controls,customize-widgets,accordion,customize-nav-menus,jquery-ui-slider,jquery-touch-punch,&load[]=iris,wp-color-picker,imgareaselect,customize-models,customize-views,mce-view,image-edit,updates,quicktags,wplink,jquery-ui-posit&load[]=ion,jquery-ui-menu,jquery-ui-autocomplete,thickbox,media-upload&ver=4.9.1
+1	26	0	0	0	25261104	0	0	25197648	0	0	1379801	/wordpress/wp-admin/edit.php
+1	3	0	0	0	25261013	0	0	25229428	0	0	1400	/wordpress/wp-content/plugins/akismet/_inc/form.js?ver=4.0.2
+1	1	1	0	0	25255989	0	0	25255989	0	0	46973	/wordpress/?customize_changeset_uuid=6960d6f1-e62b-4e01-bffe-3790a89bafcd&customize_theme=astrid&customize_messenger_channel=preview-0
+1	1	0	0	0	25197652	0	0	25197652	0	0	14422	/wordpress/wp-admin/js/widgets/media-widgets.min.js?ver=4.9
+1	1	0	0	0	25255982	0	0	25255982	0	0	11305	/wordpress/wp-includes/js/wplink.min.js?ver=4.9.1
+1	1	1	0	0	25086876	0	0	25086876	0	0	1532	/veeb/html/praks5/
+1	3	0	0	0	25255721	0	0	25210637	0	0	5576	/wordpress/wp-admin/js/widgets/custom-html-widgets.min.js?ver=4.9.1
+1	11	0	0	0	25261026	0	0	25229431	0	0	2550	/wordpress/wp-content/plugins/booking/js/datepick/jquery.datepick-et.js?ver=1.1
+1	1	1	0	0	25255992	0	0	25255992	0	0	50229	/wordpress/teine-postitus/?customize_changeset_uuid=6960d6f1-e62b-4e01-bffe-3790a89bafcd&customize_theme=astrid&customize_messenger_channel=preview-4&customize_autosaved=on
+1	0	0	1	0	0	25218166	0	0	25218166	0	0	/wordpress/wp-comments-post.php
+1	2	0	0	0	25255987	0	0	25210620	0	0	3278	/wordpress/wp-admin/images/wordpress-logo-white.svg?ver=20160308
+1	0	0	1	0	0	25255971	0	0	25255971	0	0	/wordpress/wp-admin/post.php?post=38&action=trash&_wpnonce=4e4171174b
+1	3	0	0	0	25255721	0	0	25210637	0	0	3169	/wordpress/wp-admin/js/code-editor.min.js?ver=4.9.1
+1	2	0	0	0	25197638	0	0	25187830	0	0	488634	/wordpress/wp-admin/load-scripts.php?c=0&load[]=hoverIntent,common,admin-bar,wp-ajax-response,jquery-color,wp-lists,quicktags,jquery-query,admin-comments,jquery-ui-core,jquery-&load[]=ui-widget,jquery-ui-mouse,jquery-ui-sortable,postbox,underscore,wp-util,wp-a11y,dashboard,thickbox,plugin-install,updates,shortc&load[]=ode,media-upload,svg-painter,heartbeat,wp-auth-check,wplink,jquery-ui-position,jquery-ui-menu,jquery-ui-autocomplete&ver=4.9
+1	1	0	0	0	25197652	0	0	25197652	0	0	2705	/wordpress/wp-admin/js/widgets/media-video-widget.min.js?ver=4.9
+1	2	0	0	0	25229413	0	0	25197638	0	0	30476	/wordpress/wp-includes/js/thickbox/loadingAnimation.gif
+1	1	0	0	0	25210629	0	0	25210629	0	0	0	/wordpress/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=kom
+1	1	0	0	0	25223672	0	0	25223672	0	0	71	/PHP/tsyklid.php?193.40.62.14
+1	838	0	0	55	25261182	0	25261032	25197638	0	25255973	1849376	/wordpress/wp-admin/admin-ajax.php
+1	1	0	0	0	25197652	0	0	25197652	0	0	134135	/wordpress/wp-admin/load-scripts.php?c=1&load[]=jquery-core,jquery-migrate,underscore,wp-a11y,wp-util,jquery-ui-core,jquery-ui-widget,jquery-ui-mouse,jquery-ui-sortable,jquery-&load[]=ui-draggable,jquery-ui-droppable,backbone,wp-backbone,wp-ajax-response,jquery-color,wp-lists,postbox,nav-menu,shortcode,utils,me&load[]=dia-models,moxiejs,plupload,wp-plupload&ver=4.9
+1	2	0	0	0	25200642	0	0	25197635	0	0	2796	/wordpress/wp-includes/js/wp-embed.min.js?ver=4.9
+1	1	0	0	0	25255720	0	0	25255720	0	0	32648	/wordpress/wp-admin/update-core.php?force-check=1
+1	1	0	0	0	25187829	0	0	25187829	0	0	784	/wordpress/wp-admin/js/password-strength-meter.min.js?ver=4.9
+1	1	0	0	0	25197652	0	0	25197652	0	0	7959	/wordpress/wp-includes/js/customize-base.min.js?ver=4.9
+1	6	0	0	0	25261026	0	0	25261013	0	0	20184	/wordpress/wp-content/plugins/booking/css/calendar.css?ver=8.1.1
+1	1	0	0	0	25210805	0	0	25210805	0	0	34391	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,underscore,wp-util,wp-a11y,updates,jquery-ui-core,thickbox,plugin-install,svg-painter,heartbeat,wp-&load[]=auth-check&ver=4.9.1
+1	1	0	0	0	25197640	0	0	25197640	0	0	94627	/wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load[]=dashicons,admin-bar,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-pointer,widgets&load[]=,site-icon,l10n,buttons,wp-auth-check&ver=4.9
+1	7	0	0	0	25255996	0	0	25255970	0	0	719992	/wordpress/wp-content/themes/sg-window/screenshot.png
+1	1	0	0	0	25255971	0	0	25255971	0	0	232	/wordpress/wp-admin/customize.php?autofocus[panel]=themes
+1	3	0	0	0	25255721	0	0	25210637	0	0	10774	/wordpress/wp-includes/js/customize-selective-refresh.min.js?ver=4.9.1
+1	3	0	0	0	25255721	0	0	25210637	0	0	1394	/wordpress/wp-includes/js/api-request.min.js?ver=4.9.1
+1	6	0	0	0	25261026	0	0	25261013	0	0	12752	/wordpress/wp-content/plugins/booking/css/client.css?ver=8.1.1
+1	1	0	0	0	25197652	0	0	25197652	0	0	5050	/wordpress/wp-includes/js/customize-preview-nav-menus.min.js?ver=4.9
+1	1	0	0	0	25255724	0	0	25255724	0	0	17484	/wordpress/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff
+1	1	0	0	0	25255720	0	0	25255720	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1515249620.1361370086669921875000
+1	1	0	0	0	25197652	0	0	25197652	0	0	12106	/wordpress/wp-admin/js/widgets.min.js?ver=4.9
+1	1	0	0	0	25187765	0	0	25187765	0	0	3164	/img-sys/server_misconfigured.png
+1	1	0	0	0	25255967	0	0	25255967	0	0	11156	/wordpress/wp-admin/css/colors/blue/colors.min.css
+1	1	0	0	0	25261020	0	0	25261020	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1515567655.2082989215850830078125
+1	3	0	0	0	25255721	0	0	25210637	0	0	9940	/wordpress/wp-includes/css/customize-preview.min.css?ver=4.9.1
+1	1	1	0	0	25255721	0	0	25255721	0	0	107265	/wordpress/?customize_changeset_uuid=536ddab0-7815-4f5e-b8e0-8df99cb54dfc&customize_theme=twentyseventeen&customize_messenger_channel=preview-0
+1	9	9	0	0	25261026	0	0	25255986	0	0	271550	/wordpress/kolmas-postitus/
+1	2	0	0	0	25255721	0	0	25229462	0	0	58602	/wordpress/wp-content/plugins/booking/js/client.js?ver=1.1
+1	1	0	0	0	25255982	0	0	25255982	0	0	112124	/wordpress/wp-admin/load-scripts.php?c=1&load[]=jquery-core,jquery-migrate,utils,jquery-ui-core,jquery-ui-widget,jquery-ui-mouse,jquery-ui-sortable,underscore,shortcode,backbon&load[]=e,wp-util,wp-backbone,media-models,moxiejs,plupload,wp-plupload&ver=4.9.1
+1	7	0	0	0	25255996	0	0	25255970	0	0	449783	/wordpress/wp-content/themes/cats456/screenshot.png
+1	0	0	1	0	0	25255970	0	0	25255970	0	0	/wordpress/wp-admin/themes.php?action=activate&_wpnonce=85ca283dde&stylesheet=cats456
+1	1	0	0	0	25187830	0	0	25187830	0	0	109068	/wordpress/wp-admin/load-scripts.php?c=0&load[]=jquery-core,jquery-migrate,utils&ver=4.9
+1	5	0	0	0	25255721	0	0	25229431	0	0	25831	/wordpress/wp-content/plugins/booking/js/admin.js?ver=1.1
+1	2	0	0	0	25219338	0	0	25197637	0	0	4640	/wordpress/wp-login.php?redirect_to=http://ap.ikt.khk.ee/wordpress/wp-admin/&reauth=1
+1	4	0	0	0	25223793	0	0	25223785	0	0	330	/PHP/tabel.php
+1	1	0	0	0	25197647	0	0	25197647	0	0	576231	/wordpress/wp-content/themes/twentyfifteen/screenshot.png
+1	1307	0	0	0	25220760	0	0	25220690	0	0	180133	/PHP/tingimused.php
+1	44	0	0	0	25262618	0	0	25262545	0	0	42597	/PHP/andmebaas.php
+1	1	0	0	0	25187829	0	0	25187829	0	0	6359	/wordpress/wp-admin/js/user-profile.min.js?ver=4.9
+1	6	0	0	0	25255721	0	0	25197635	0	0	3415	/wordpress/wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js?ver=1.0
+1	2	2	0	0	25261017	0	0	25261013	0	0	57723	/wordpress/teine-postitus/
+1	75	0	0	0	25262502	0	0	25261352	0	0	17048	/PHP/sisend.php
+1	1	0	0	0	25255982	0	0	25255982	0	0	15237	/wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load[]=media-views,editor-buttons,code-editor&ver=4.9.1
+1	3	0	0	0	25255973	0	0	25255969	0	0	162922	/wordpress/wp-admin/themes.php?activated=true
+1	0	0	0	32	0	0	25262484	0	0	25086876	0	/favicon.ico
+1	1	0	0	0	25197645	0	0	25197645	0	0	41643	/wordpress/wp-admin/load-scripts.php?c=1&load[]=jquery-core,jquery-migrate,utils,zxcvbn-async&ver=4.9
+1	6	0	0	0	25261026	0	0	25261013	0	0	59140	/wordpress/wp-content/plugins/booking/js/client.js?ver=8.1.1
+1	2	0	0	0	25229429	0	0	25219377	0	0	45952	/wordpress/wp-admin/tools.php
+1	1	0	0	0	25229431	0	0	25229431	0	0	885	/wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load[]=wp-color-picker&ver=4.9.1
+1	3	0	0	0	25218165	0	0	25210634	0	0	3234	/wordpress/wp-includes/js/comment-reply.min.js?ver=4.9.1
+1	3	0	0	0	25255721	0	0	25210637	0	0	7959	/wordpress/wp-includes/js/customize-base.min.js?ver=4.9.1
+1	3	0	0	0	25255721	0	0	25210637	0	0	2023	/wordpress/wp-admin/js/widgets/media-image-widget.min.js?ver=4.9.1
+1	3	3	0	0	25247335	0	0	25217059	0	0	174350	/wordpress/?193.40.62.14
+1	1	0	0	0	25255982	0	0	25255982	0	0	95206	/wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load[]=dashicons,admin-bar,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-pointer,widgets&load[]=,site-icon,l10n,buttons,wp-auth-check,wp-color-picker&ver=4.9.1
+1	11	0	0	0	25261179	0	0	25197714	0	0	263364	/wordpress/wp-admin/update-core.php
+1	1	0	0	0	25210871	0	0	25210871	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1512558712.5524780750274658203125
+1	1	0	0	0	25187830	0	0	25187830	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1511176236.8063879013061523437500
+1	3	0	0	0	25255721	0	0	25210637	0	0	10900	/wordpress/wp-includes/js/customize-preview.min.js?ver=4.9.1
+1	27	0	0	0	25259813	0	0	25259744	0	0	20393	/PHP/massiivid2.php
+1	8	0	0	0	25261026	0	0	25261010	0	0	6596	/wordpress/wp-content/plugins/booking/core/any/css/admin-menu.css?ver=8.1.1
+1	1	0	0	0	25197638	0	0	25197638	0	0	1	/wordpress/wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&_ajax_nonce=b96d9ec627&1511764728134
+1	2	0	0	0	25255725	0	0	25210634	0	0	20214	/wordpress/wp-includes/css/admin-bar.min.css?ver=4.9.1
+1	2	0	0	0	25200794	0	0	25197652	0	0	9940	/wordpress/wp-includes/css/customize-preview.min.css?ver=4.9
+1	6	0	0	0	25219577	0	0	25187622	0	0	583104	/wordpress/wp-includes/js/jquery/jquery.js?ver=1.12.4
+1	4	0	0	0	25255996	0	0	25255973	0	0	409267	/wordpress/wp-content/themes/astrid/screenshot.png
+1	1	0	0	0	25255958	0	0	25255958	0	0	2331	/wordpress/wp-login.php?redirect_to=http://ap.ikt.khk.ee/wordpress/wp-admin/themes.php&reauth=1
+1	1	0	0	0	25197638	0	0	25197638	0	0	1114	/wordpress/wp-admin/admin-ajax.php?action=wp-compression-test&test=1&_ajax_nonce=b96d9ec627&1511764726897
+1	5	5	0	0	25218166	0	0	25218146	0	0	241608	/wordpress/2017/12/11/kolmas-postitus/
+1	2	0	0	0	25200794	0	0	25197652	0	0	12976	/wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load[]=editor-buttons&ver=4.9
+1	1	0	0	0	25255986	0	0	25255986	0	0	1	/wordpress/wp-admin/admin-ajax.php?action=oembed-cache&post=2
+1	1	0	0	0	25219577	0	0	25219577	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1513081078.3409960269927978515625
+1	1	0	0	0	25210623	0	0	25210623	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1512543832.0775449275970458984375
+1	8	0	0	0	25261026	0	0	25261010	0	0	4966	/wordpress/wp-content/plugins/booking/css/admin.css?ver=8.1.1
+1	1	0	0	0	25212034	0	0	25212034	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1512628466.4476640224456787109375
+1	6	0	0	0	25261026	0	0	25261013	0	0	6481	/wordpress/wp-content/plugins/booking/js/wpbc_vars.js?ver=8.1.1
+1	7	0	0	0	25255995	0	0	25255973	0	0	4788	/wordpress/wp-content/themes/astrid/js/customizer.js?ver=20130508
+1	5	0	0	0	25255995	0	0	25255973	0	0	2117	/wordpress/wp-content/themes/astrid/inc/framework/css/customizer.css?ver=4.9.1
+1	1	0	0	0	25197648	0	0	25197648	0	0	95801	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,underscore,shortcode,backbone,wp-util,wp-backbone,media-models,wp-plupload,jquery-ui-core,jquery-ui&load[]=-widget,jquery-ui-mouse,jquery-ui-sortable,wp-mediaelement,wp-api-request,media-views,media-editor,media-audiovideo,mce-view,img&load[]=areaselect,image-edit,media-grid,media,svg-painter,heartbeat,wp-auth-check&ver=4.9
+1	1	0	0	0	25197652	0	0	25197652	0	0	114018	/wordpress/wp-admin/load-scripts.php?c=1&load[]=heartbeat,customize-base,customize-controls,customize-widgets,accordion,customize-nav-menus,jquery-ui-slider,jquery-touch-punch,&load[]=iris,wp-color-picker,imgareaselect,customize-models,customize-views,mce-view,image-edit,updates,quicktags,wplink,jquery-ui-posit&load[]=ion,jquery-ui-menu,jquery-ui-autocomplete,thickbox,media-upload&ver=4.9
+1	1	0	0	0	25210629	0	0	25210629	0	0	0	/wordpress/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=kombinatsi
+1	1	0	0	0	25219341	0	0	25219341	0	0	34331	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,jquery-ui-core,thickbox,plugin-install,underscore,wp-util,wp-a11y,updates,svg-painter,heartbeat,wp-&load[]=auth-check&ver=4.9.1
+1	3	0	0	0	25255721	0	0	25210634	0	0	46360	/wordpress/wp-includes/css/dashicons.min.css?ver=4.9.1
+1	1	0	0	0	25260993	0	0	25260993	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1515566039.1550691127777099609375
+1	1	0	0	0	25197652	0	0	25197652	0	0	1783	/wordpress/wp-includes/js/wp-auth-check.min.js?ver=4.9
+1	1	0	0	0	25255982	0	0	25255982	0	0	12106	/wordpress/wp-admin/js/widgets.min.js?ver=4.9.1
+1	1	0	0	0	25255982	0	0	25255982	0	0	5484	/wordpress/wp-admin/js/svg-painter.js?ver=4.9.1
+1	1	0	0	0	25197652	0	0	25197652	0	0	117713	/wordpress/wp-content/uploads/2017/11/coffee.jpg
+1	1	0	0	0	25210927	0	0	25210927	0	0	47	/wordpress/wp-admin/admin-ajax.php?193.40.62.14
+1	1	0	0	0	25187797	0	0	25187797	0	0	10406558	/wordpress-4.9.zip
+1	4	0	0	0	25255721	0	0	25197652	0	0	585414	/wordpress/wp-includes/js/codemirror/codemirror.min.js?ver=5.29.1-alpha-ee20357
+1	0	0	2	0	0	25255965	0	0	25255964	0	0	/wordpress/wp-admin/options.php
+1	1	0	0	0	25197679	0	0	25197679	0	0	34331	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,jquery-ui-core,thickbox,plugin-install,underscore,wp-util,wp-a11y,updates,svg-painter,heartbeat,wp-&load[]=auth-check&ver=4.9
+1	1	0	0	0	25255973	0	0	25255973	0	0	114499	/wordpress/wp-admin/load-scripts.php?c=1&load[]=heartbeat,customize-base,customize-controls,customize-widgets,jquery-ui-slider,jquery-touch-punch,iris,wp-color-picker,accordion&load[]=,customize-nav-menus,imgareaselect,customize-models,customize-views,mce-view,image-edit,updates,quicktags,wplink,jquery-ui-posit&load[]=ion,jquery-ui-menu,jquery-ui-autocomplete,thickbox,media-upload&ver=4.9.1
+1	1	0	0	0	25197640	0	0	25197640	0	0	41526	/wordpress/wp-admin/load-scripts.php?c=1&load[]=jquery-core,jquery-migrate,utils&ver=4.9
+1	1	0	0	0	25259675	0	0	25259675	0	0	938	/PHP/massiivid.php?193.40.62.14
+1	1	0	0	0	25187830	0	0	25187830	0	0	331399	/wordpress/wp-admin/load-styles.php?c=0&dir=ltr&load[]=dashicons,admin-bar,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-pointer,widgets&load[]=,site-icon,l10n,buttons,wp-auth-check&ver=4.9
+1	1	0	0	0	25210619	0	0	25210619	0	0	1	/wordpress/wp-admin/upgrade.php?step=upgrade_db
+1	3	0	0	0	25210619	0	0	25197635	0	0	166072	/wordpress/wp-content/themes/twentyseventeen/style.css?ver=4.9
+1	1	0	0	0	25229374	0	0	25229374	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1513668844.5446369647979736328125
+1	1	0	0	0	25210629	0	0	25210629	0	0	0	/wordpress/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=kombinat
+1	1	0	0	0	25197652	0	0	25197652	0	0	5531	/wordpress/wp-includes/js/heartbeat.min.js?ver=4.9
+1	9	0	0	0	25261013	0	0	25255973	0	0	3940	/wordpress/wp-content/themes/astrid/js/scripts.min.js?ver=4.9.1
+1	13	0	0	0	25261026	0	0	25229431	0	0	365262	/wordpress/wp-content/plugins/booking/assets/libs/bootstrap/css/bootstrap.css?ver=3.3.5.1
+1	3	3	0	0	25218165	0	0	25218146	0	0	126154	/wordpress/2017/12/11/teine-postitus/
+1	2	0	0	0	25255982	0	0	25197652	0	0	19200	/wordpress/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4
+1	1	0	0	0	25255988	0	0	25255988	0	0	282302	/wordpress/wp-admin/post.php?post=45&action=edit&message=6
+1	1	0	0	0	25245434	0	0	25245434	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1514632446.6777029037475585937500
+1	1	0	0	0	25210629	0	0	25210629	0	0	0	/wordpress/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=kombina
+1	1	0	0	0	25255988	0	0	25255988	0	0	284401	/wordpress/wp-admin/post.php?post=45&action=edit&message=1
+1	10	0	0	0	25219375	0	0	25197648	0	0	787713	/wordpress/wp-admin/upload.php
+1	1	0	0	0	25197652	0	0	25197652	0	0	5484	/wordpress/wp-admin/js/svg-painter.js?ver=4.9
+1	6	0	0	0	25255721	0	0	25197635	0	0	29180	/wordpress/wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js?ver=2.1.2
+1	4	0	0	0	25260994	0	0	25218131	0	0	9320	/wordpress/wp-login.php?redirect_to=http://ap.ikt.khk.ee/wordpress/wp-admin/index.php&reauth=1
+1	7	0	0	0	25262502	0	0	25261380	0	0	978	/PHP/valjund.php
+1	1	0	0	0	25261018	0	0	25261018	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1515567532.0871610641479492187500
+1	1	0	0	0	25255966	0	0	25255966	0	0	34206	/wordpress/wp-admin/options-permalink.php?settings-updated=true
+1	35	0	0	0	25259744	0	0	25229329	0	0	20290	/PHP/massiivid.php
+1	1	1	0	0	25229462	0	0	25229462	0	0	107266	/wordpress/?customize_changeset_uuid=6bb07de1-3e8b-47ee-ad9f-55c42f130d49&customize_theme=twentyseventeen&customize_messenger_channel=preview-0
+1	0	0	1	0	0	25255973	0	0	25255973	0	0	/wordpress/wp-admin/themes.php?action=activate&_wpnonce=e00c406905&stylesheet=astrid
+1	5	0	0	0	25255721	0	0	25229431	0	0	14741	/wordpress/wp-content/plugins/booking/core/any/css/admin-toolbar.css?ver=8.1
+1	2	0	1	0	25255965	25255966	0	25197643	25255966	0	64953	/wordpress/wp-admin/options-permalink.php
+1	2	0	0	0	25255967	0	0	25197652	0	0	79146	/wordpress/wp-admin/profile.php?wp_http_referer=/wordpress/wp-admin/users.php
+1	1	0	0	0	25255973	0	0	25255973	0	0	542358	/wordpress/wp-admin/customize.php?theme=astrid&return=http://ap.ikt.khk.ee/wordpress/wp-admin/themes.php
+1	1	0	0	0	25197652	0	0	25197652	0	0	5576	/wordpress/wp-admin/js/widgets/custom-html-widgets.min.js?ver=4.9
+1	1	0	0	0	25255989	0	0	25255989	0	0	540850	/wordpress/wp-admin/customize.php?url=http://ap.ikt.khk.ee/wordpress/
+1	2	0	0	0	25229428	0	0	25197647	0	0	463555	/wordpress/wp-content/themes/twentysixteen/screenshot.png
+1	1	1	0	0	25255991	0	0	25255991	0	0	47110	/wordpress/?customize_changeset_uuid=6960d6f1-e62b-4e01-bffe-3790a89bafcd&customize_theme=astrid&customize_messenger_channel=preview-1&customize_autosaved=on
+1	1	0	0	0	25086877	0	0	25086877	0	0	746	/veeb/html/praks5/stiil.css
+1	3	0	0	0	25256116	0	0	25210801	0	0	115776	/wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load[]=dashicons,buttons,forms,l10n,login&ver=4.9.1
+1	2	0	0	0	25255725	0	0	25255721	0	0	700986	/wordpress/wp-admin/customize.php?theme=twentyseventeen&return=http://ap.ikt.khk.ee/wordpress/wp-admin/themes.php
+1	1	1	0	0	25255991	0	0	25255991	0	0	47103	/wordpress/?customize_changeset_uuid=6960d6f1-e62b-4e01-bffe-3790a89bafcd&customize_theme=astrid&customize_messenger_channel=preview-3&customize_autosaved=on
+1	1	0	0	0	25197652	0	0	25197652	0	0	4462	/wordpress/wp-includes/js/wp-custom-header.min.js?ver=4.9
+1	0	0	1	0	0	25255968	0	0	25255968	0	0	/wordpress/wp-admin/profile.php
+1	18	0	0	0	25223742	0	0	25223741	0	0	8208	/PHP/funktsioonid.php
+1	1	0	0	0	25197652	0	0	25197652	0	0	93540	/wordpress/wp-content/uploads/2017/11/espresso.jpg
+1	2	0	0	0	25200794	0	0	25197652	0	0	13542	/wordpress/wp-admin/js/editor.min.js?ver=4.9
+1	1	0	0	0	25210634	0	0	25210634	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1512544482.4438269138336181640625
+1	2	0	0	0	25229462	0	0	25210637	0	0	1306	/wordpress/wp-includes/js/wp-a11y.min.js?ver=4.9.1
+1	1	1	0	0	25200794	0	0	25200794	0	0	114910	/wordpress/?customize_changeset_uuid=d857924e-c815-428d-b0e1-dd39333a98c2&customize_theme=twentyseventeen&customize_messenger_channel=preview-0
+1	1	0	0	0	25210634	0	0	25210634	0	0	7188	/wordpress/wp-includes/js/admin-bar.min.js?ver=4.9.1
+1	1	0	0	0	25187765	0	0	25187765	0	0	5617	/img-sys/powered_by_cpanel.svg
+1	2	0	0	0	25255982	0	0	25197652	0	0	13054	/wordpress/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4
+1	6	0	0	0	25261026	0	0	25261013	0	0	9047	/wordpress/wp-content/plugins/booking/css/skins/traditional.css?ver=8.1.1
+1	3	0	0	0	25255721	0	0	25210637	0	0	1466	/wordpress/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=4.9.1
+1	1	0	0	0	25197647	0	0	25197647	0	0	34391	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,underscore,wp-util,wp-a11y,updates,jquery-ui-core,thickbox,plugin-install,svg-painter,heartbeat,wp-&load[]=auth-check&ver=4.9
+1	1	0	0	0	25255968	0	0	25255968	0	0	47033	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,underscore,backbone,wp-util,wp-backbone,wp-a11y,customize-base,theme,updates,svg-painter,heartbeat,&load[]=wp-auth-check&ver=4.9.1
+1	1	0	0	0	25228240	0	0	25228240	0	0	85	/PHP/funktsioonid2.php?193.40.62.14
+1	1	0	0	0	25255982	0	0	25255982	0	0	1783	/wordpress/wp-includes/js/wp-auth-check.min.js?ver=4.9.1
+1	5	0	0	0	25255721	0	0	25229431	0	0	32876	/wordpress/wp-content/plugins/booking/css/timeline.css?ver=8.1
+1	5	0	0	0	25255721	0	0	25229431	0	0	6570	/wordpress/wp-content/plugins/booking/css/admin-skin.css?ver=8.1
+1	2	0	0	0	25261031	0	0	25219377	0	0	30194	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,wp-ajax-response,admin-tags,wp-a11y,inline-edit-tax,svg-painter,heartbeat,wp-auth-check&ver=4.9.1
+1	1	0	0	0	25260995	0	0	25260995	0	0	38256	/wordpress/wp-admin/plugin-install.php?tab=search&s=polygang
+1	2	0	0	0	25261015	0	0	25255979	0	0	2448	/wordpress/wp-content/uploads/2018/01/16_UserExperiencesEvolvingthebluee_5-150x80.gif
+1	1	0	0	0	25197648	0	0	25197648	0	0	4068	/wordpress/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=4.9
+1	1	0	0	0	25261016	0	0	25261016	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1515567403.4803409576416015625000
+1	1	0	0	0	25218146	0	0	25218146	0	0	135639	/wordpress/wp-admin/post.php?post=34&action=edit&message=6
+1	3	0	0	0	25261010	0	0	25218145	0	0	560904	/wordpress/wp-admin/post.php?post=30&action=edit
+1	8	0	0	0	25261027	0	0	25261018	0	0	2371494	/wordpress/wp-admin/post.php?post=34&action=edit&message=1
+1	1	0	0	0	25210637	0	0	25210637	0	0	134135	/wordpress/wp-admin/load-scripts.php?c=1&load[]=jquery-core,jquery-migrate,underscore,wp-a11y,wp-util,jquery-ui-core,jquery-ui-widget,jquery-ui-mouse,jquery-ui-sortable,jquery-&load[]=ui-draggable,jquery-ui-droppable,backbone,wp-backbone,wp-ajax-response,jquery-color,wp-lists,postbox,nav-menu,shortcode,utils,me&load[]=dia-models,moxiejs,plupload,wp-plupload&ver=4.9.1
+1	20	0	1	0	25255997	25255958	0	25197647	25255958	0	965651	/wordpress/wp-admin/themes.php
+1	1	0	0	0	25197652	0	0	25197652	0	0	10774	/wordpress/wp-includes/js/customize-selective-refresh.min.js?ver=4.9
+1	1	0	0	0	25197652	0	0	25197652	0	0	697	/wordpress/wp-includes/js/api-request.min.js?ver=4.9
+1	0	0	0	2	0	0	25210619	0	0	25197635	0	/robots.txt?193.40.62.14
+1	2	0	0	0	25255983	0	0	25255971	0	0	539075	/wordpress/wp-admin/customize.php
+1	1	0	0	0	25197635	0	0	25197635	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1511764554.3130249977111816406250
+1	2	0	0	0	25187767	0	0	25187622	0	0	748	/wordpress/wp-admin/js/language-chooser.min.js?ver=4.9
+1	9	9	2	0	25255725	25219338	0	25187830	25197637	0	467410	/wordpress/wp-admin/
+1	1	0	0	0	25210620	0	0	25210620	0	0	12541	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,svg-painter,heartbeat,wp-auth-check&ver=4.9.1
+1	1	0	0	0	25197652	0	0	25197652	0	0	3779	/wordpress/wp-admin/js/widgets/media-gallery-widget.min.js?ver=4.9
+1	1	0	0	0	25210629	0	0	25210629	0	0	0	/wordpress/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=kombinatsioo
+1	1	0	0	0	25197714	0	0	25197714	0	0	31839	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,jquery-ui-core,thickbox,plugin-install,underscore,wp-util,wp-a11y,updates,svg-painter&ver=4.9
+1	5	0	0	0	25255721	0	0	25229431	0	0	29040	/wordpress/wp-content/plugins/booking/core/any/js/admin-support.js?ver=1.1
+1	0	0	0	136	0	0	25262617	0	0	25187622	0	/robots.txt
+1	5	0	0	0	25255721	0	0	25229431	0	0	6480	/wordpress/wp-content/plugins/booking/js/wpbc_vars.js?ver=1.1
+1	7	0	0	0	25255721	0	0	25210634	0	0	332144	/wordpress/wp-content/themes/twentyseventeen/style.css?ver=4.9.1
+1	1	0	0	0	25187765	0	0	25187765	0	0	2939	/img-sys/IP_changed.png
+1	1	1	0	0	25255974	0	0	25255974	0	0	47543	/wordpress/?customize_changeset_uuid=cff0c87a-8228-4625-8e52-d35f4736ea42&customize_theme=astrid&customize_messenger_channel=preview-0
+1	11	0	0	0	25255721	0	0	25210632	0	0	90904	/wordpress/wp-content/uploads/2017/12/CtrlAltDel.jpg
+1	1	0	0	0	25210628	0	0	25210628	0	0	0	/wordpress/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=klahv
+1	5	0	0	0	25255721	0	0	25229431	0	0	13461	/wordpress/wp-content/plugins/booking/core/any/css/admin-support.css?ver=8.1
+1	3	0	0	0	25255721	0	0	25210637	0	0	12373	/wordpress/wp-includes/js/media-audiovideo.min.js?ver=4.9.1
+1	1	0	0	0	25197652	0	0	25197652	0	0	2023	/wordpress/wp-admin/js/widgets/media-image-widget.min.js?ver=4.9
+1	1	1	0	0	25086877	0	0	25086877	0	0	1189	/veeb/html/praks5/P%c3%a4rnu.html
+1	1	1	0	0	25255725	0	0	25255725	0	0	63923	/wordpress/pealkiri/?preview_id=38&preview_nonce=f0419c08fa&_thumbnail_id=-1&preview=true
+1	1	0	0	0	25256116	0	0	25256116	0	0	4231	/wordpress/wp-login.php?action=rp
+1	1	0	0	0	25218145	0	0	25218145	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1512995103.9493389129638671875000
+1	1	0	0	0	25210637	0	0	25210637	0	0	10905	/wordpress/wp-includes/js/media-editor.min.js?ver=4.9.1
+1	1	0	0	0	25255982	0	0	25255982	0	0	11149	/wordpress/wp-includes/js/quicktags.min.js?ver=4.9.1
+1	1	0	0	0	25197652	0	0	25197652	0	0	14896	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,jquery-ui-draggable,jquery-ui-droppable&ver=4.9
+1	1	1	0	0	25187830	0	0	25187830	0	0	57867	/wordpress/2017/11/20/tere-tere/
+1	1	0	0	0	25255968	0	0	25255968	0	0	41323	/wordpress/wp-admin/profile.php?updated=1&wp_http_referer=/wordpress/wp-admin/users.php
+1	2	0	0	0	25255987	0	0	25210620	0	0	10790	/wordpress/wp-admin/images/w-logo-white.png?ver=20160308
+1	2	0	0	0	25229428	0	0	25210623	0	0	54854	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,jquery-ui-core,jquery-ui-widget,jquery-ui-position,jquery-ui-menu,wp-a11y,jquery-ui-autocomplete,ta&load[]=gs-suggest,inline-edit-post,heartbeat,svg-painter,wp-auth-check&ver=4.9.1
+1	1	0	0	0	25255982	0	0	25255982	0	0	3521	/wordpress/wp-admin/js/color-picker.min.js?ver=4.9.1
+1	1	0	0	0	25197648	0	0	25197648	0	0	45905	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,wp-ajax-response,jquery-color,wp-lists,quicktags,jquery-query,admin-comments,svg-painter,heartbeat,&load[]=wp-auth-check,wp-a11y,wplink,jquery-ui-core,jquery-ui-widget,jquery-ui-position,jquery-ui-menu,jquery-ui-autocomplete&ver=4.9
+1	2	0	0	0	25255721	0	0	25197652	0	0	1137	/wordpress/wp-content/themes/twentyseventeen/assets/js/customize-controls.js?ver=1.0
+1	1	0	0	0	25261021	0	0	25261021	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1515567677.9810609817504882812500
+1	33	0	2	0	25261109	25260993	0	25197651	25229413	0	1917936	/wordpress/wp-admin/index.php
+1	6	0	0	12	25229413	0	25261109	25197638	0	25255720	4342	/wordpress/wp-admin/admin-ajax.php?action=dashboard-widgets&widget=dashboard_primary&pagenow=dashboard
+1	5	0	0	0	25255721	0	0	25229431	0	0	3798	/wordpress/wp-content/plugins/booking/core/any/css/admin-br-table.css?ver=8.1
+1	1	0	0	0	25261022	0	0	25261022	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1515567767.6041390895843505859375
+1	1	0	0	0	25187767	0	0	25187767	0	0	8536	/wordpress/wp-admin/images/spinner-2x.gif
+1	5	0	0	0	25255721	0	0	25229431	0	0	8234	/wordpress/wp-content/plugins/booking/css/modal.css?ver=8.1
+1	1	0	0	0	25247335	0	0	25247335	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1514746546.9381549358367919921875
+1	2	0	0	0	25229461	0	0	25210637	0	0	12976	/wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load[]=editor-buttons&ver=4.9.1
+1	1	0	0	0	25210637	0	0	25210637	0	0	339204	/wordpress/wp-admin/customize.php?url=http://ap.ikt.khk.ee/wordpress/2017/12/06/kiirklahvid/
+1	1	0	0	0	25197648	0	0	25197648	0	0	790	/wordpress/wp-includes/js/imgareaselect/imgareaselect.css?ver=0.9.8
+1	2	0	0	0	25229413	0	0	25210620	0	0	83052	/wordpress/wp-admin/load-scripts.php?c=1&load[]=jquery-core,jquery-migrate,utils&ver=4.9.1
+1	5	0	0	0	25255721	0	0	25229431	0	0	9047	/wordpress/wp-content/plugins/booking/css/skins/traditional.css?ver=8.1
+1	1	0	0	0	25255982	0	0	25255982	0	0	9887	/wordpress/wp-includes/js/imgareaselect/jquery.imgareaselect.min.js?ver=4.9.1
+1	1	0	0	0	25197652	0	0	25197652	0	0	7899	/wordpress/wp-includes/js/customize-preview-widgets.min.js?ver=4.9
+1	14	0	1	0	25261004	25261000	0	25197647	25261000	0	602166	/wordpress/wp-admin/plugins.php
+1	5	0	0	0	25210628	0	0	25210628	0	0	0	/wordpress/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=
+1	8	0	0	0	25261026	0	0	25261010	0	0	8235	/wordpress/wp-content/plugins/booking/css/modal.css?ver=8.1.1
+1	1	0	0	0	25187829	0	0	25187829	0	0	11429	/wordpress/wp-admin/install.php
+1	1	0	0	0	25218196	0	0	25218196	0	0	51087	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,thickbox,underscore,backbone,wp-util,wp-backbone,wp-a11y,customize-base,theme,updates,svg-painter,h&load[]=eartbeat,wp-auth-check&ver=4.9.1
+1	1	0	0	0	25210634	0	0	25210634	0	0	136274	/wordpress/wp-admin/post.php?post=23&action=edit&message=6
+1	1	0	0	0	25197652	0	0	25197652	0	0	5924	/wordpress/wp-admin/js/widgets/text-widgets.min.js?ver=4.9
+1	1	0	0	0	25210629	0	0	25210629	0	0	0	/wordpress/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=kombinatsioon
+1	1	0	0	0	25197647	0	0	25197647	0	0	51087	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,thickbox,underscore,backbone,wp-util,wp-backbone,wp-a11y,customize-base,theme,updates,svg-painter,h&load[]=eartbeat,wp-auth-check&ver=4.9
+1	8	0	0	0	25261031	0	0	25197679	0	0	589546	/wordpress/wp-admin/plugin-install.php
+1	2	0	0	0	25261027	0	0	25261017	0	0	587779	/wordpress/wp-admin/post.php?post=34&action=edit
+1	15	0	0	0	25228278	0	0	25228240	0	0	2504	/PHP/funktsioonid2.php
+1	1	0	0	0	25247335	0	0	25247335	0	0	370	/wordpress/xmlrpc.php
+1	1	0	0	0	25255975	0	0	25255975	0	0	178	/wordpress/wp-includes/js/imgareaselect/border-anim-h.gif
+1	0	0	0	1	0	0	25261022	0	0	25261022	0	/wordpress/wp-admin/images/more-2x.png
+1	3	0	0	0	25256116	0	0	25187829	0	0	2466606	/wordpress/wp-includes/js/zxcvbn.min.js
+1	1	0	0	0	25200794	0	0	25200794	0	0	117713	/wordpress/wp-content/uploads/2017/11/coffee-1.jpg
+1	1	0	0	0	25200781	0	0	25200781	0	0	34059	/wordpress/wp-admin/edit.php?trashed=1&ids=1
+1	1	1	0	0	25261013	0	0	25261013	0	0	29456	/wordpress/esimene-postitus/?preview_id=30&preview_nonce=3443d95307&post_format=standard&_thumbnail_id=-1&preview=true
+1	6	0	0	0	25255721	0	0	25197635	0	0	574270	/wordpress/wp-content/themes/twentyseventeen/assets/images/header.jpg
+1	5	0	0	0	25218146	0	0	25210623	0	0	660648	/wordpress/wp-admin/post-new.php
+1	5	0	0	0	25255721	0	0	25229431	0	0	4965	/wordpress/wp-content/plugins/booking/css/admin.css?ver=8.1
+1	2	0	0	0	25255721	0	0	25197652	0	0	4480	/wordpress/wp-content/themes/twentyseventeen/assets/js/customize-preview.js?ver=1.0
+1	3	0	0	0	25255721	0	0	25210637	0	0	3779	/wordpress/wp-admin/js/widgets/media-gallery-widget.min.js?ver=4.9.1
+1	9	0	0	0	25261026	0	0	25255724	0	0	164	/wordpress/wp-content/plugins/booking/js/wpbc_bs_no_conflict.js?ver=1.0
+1	1	0	0	0	25261031	0	0	25261031	0	0	47865	/wordpress/wp-admin/edit-tags.php?taxonomy=post_tag
+1	0	0	1	0	0	25200781	0	0	25200781	0	0	/wordpress/wp-admin/edit.php?s=&post_status=trash&post_type=post&_wpnonce=e768061892&_wp_http_referer=/wordpress/wp-admin/edit.php%3Fpost_status%3Dtrash%26post_type%3Dpost&action=-1&m=0&cat=0&delete_all=T%C3%BChjenda+pr%C3%BCgikast&paged=1&action2=-1
+1	1	0	0	0	25210805	0	0	25210805	0	0	45905	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,wp-ajax-response,jquery-color,wp-lists,quicktags,jquery-query,admin-comments,svg-painter,heartbeat,&load[]=wp-auth-check,wp-a11y,wplink,jquery-ui-core,jquery-ui-widget,jquery-ui-position,jquery-ui-menu,jquery-ui-autocomplete&ver=4.9.1
+1	1	0	0	0	25255987	0	0	25255987	0	0	36326	/wordpress/wp-admin/about.php
+1	1	0	0	0	25218131	0	0	25218131	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1512994263.3865599632263183593750
+1	8	0	0	0	25255725	0	0	25197648	0	0	372529	/wordpress/wp-admin/edit-comments.php
+1	1	1	0	0	25255996	0	0	25255996	0	0	46974	/wordpress/?customize_changeset_uuid=f9212d5b-1012-463c-b895-de18f8085a10&customize_theme=astrid&customize_messenger_channel=preview-0
+1	2	0	0	0	25210619	0	0	25197714	0	0	188146	/wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load[]=dashicons,admin-bar,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-pointer,widgets&load[]=,site-icon,l10n,buttons&ver=4.9
+1	8	0	0	0	25260994	0	0	25229414	0	0	9562	/wordpress/wp-content/plugins/akismet/_inc/akismet.js?ver=4.0.2
+1	1	0	0	0	25197652	0	0	25197652	0	0	10905	/wordpress/wp-includes/js/media-editor.min.js?ver=4.9
+1	1	0	0	0	25197652	0	0	25197652	0	0	11149	/wordpress/wp-includes/js/quicktags.min.js?ver=4.9
+1	1	0	0	0	25255724	0	0	25255724	0	0	15599	/wordpress/wp-includes/js/tinymce/langs/wp-langs-en.js?ver=4607-20171116
+1	8	0	0	0	25261026	0	0	25261010	0	0	13462	/wordpress/wp-content/plugins/booking/core/any/css/admin-support.css?ver=8.1.1
+1	0	0	0	6	0	0	25255721	0	0	25229431	0	/wordpress/wp-content/wp-admin/images/xit.gif
+1	6	0	0	0	25255721	0	0	25229431	0	0	720655	/wordpress/wp-admin/admin.php?page=wpbc
+1	2	0	0	0	25255724	0	0	25210623	0	0	46360	/wordpress/wp-includes/css/dashicons.min.css?ver=4.9.1&wp-mce-4607-20171116
+1	2	0	0	0	25255979	0	0	25210632	0	0	2938	/wordpress/wp-admin/async-upload.php
+1	1	0	0	0	25187829	0	0	25187829	0	0	16410	/wordpress/wp-includes/js/underscore.min.js?ver=1.8.3
+1	2	0	0	0	25229413	0	0	25218196	0	0	188146	/wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load[]=dashicons,admin-bar,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-pointer,widgets&load[]=,site-icon,l10n,buttons&ver=4.9.1
+1	2	0	0	0	25255724	0	0	25210623	0	0	8639	/wordpress/wp-includes/js/tinymce/skins/wordpress/wp-content.css?ver=4.9.1&wp-mce-4607-20171116
+1	3	0	0	0	25255721	0	0	25210637	0	0	14422	/wordpress/wp-admin/js/widgets/media-widgets.min.js?ver=4.9.1
+1	1	0	0	0	25187830	0	0	25187830	0	0	98104	/wordpress/wp-admin/load-styles.php?c=0&dir=ltr&load[]=dashicons,buttons,forms,l10n,login&ver=4.9
+1	3	0	0	0	25255972	0	0	25255968	0	0	131001	/wordpress/wp-admin/theme-install.php
+1	0	0	1	0	0	25218131	0	0	25218131	0	0	/wordpress/wp-admin/index.php?193.40.62.14
+1	1	0	0	0	25197648	0	0	25197648	0	0	8536	/wordpress/wp-includes/images/spinner-2x.gif
+1	2	0	0	0	25255982	0	0	25197652	0	0	16566	/wordpress/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4
+1	1	0	1	0	25229414	25229431	0	25229414	25229431	0	41344	/wordpress/wp-admin/plugins.php?activate=true&plugin_status=all&paged=1&s=
+1	2	0	0	0	25261031	0	0	25219377	0	0	78212	/wordpress/wp-admin/edit-tags.php?taxonomy=category
+1	1	1	0	0	25086876	0	0	25086876	0	0	1488	/veeb/html/?C=N;O=D
+1	3	0	0	0	25255963	0	0	25210620	0	0	83308	/wordpress/wp-admin/options-reading.php
+1	3	0	0	0	25255721	0	0	25210637	0	0	7899	/wordpress/wp-includes/js/customize-preview-widgets.min.js?ver=4.9.1
+1	1	0	0	0	25187622	0	0	25187622	0	0	4162	/wordpress/wp-admin/images/spinner.gif
+1	5	0	0	0	25255721	0	0	25229431	0	0	2204	/wordpress/wp-content/plugins/booking/css/print.css?ver=8.1
+1	4	0	0	0	25255721	0	0	25197652	0	0	1053899	/wordpress/wp-includes/js/codemirror/jshint.js?ver=2.9.5
+1	1	1	0	0	25086876	0	0	25086876	0	0	1488	/veeb/html/?C=N;O=A
+1	1	0	0	0	25197652	0	0	25197652	0	0	1440	/wordpress/wp-admin/js/widgets/media-audio-widget.min.js?ver=4.9
+1	1	0	0	0	25261020	0	0	25261020	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1515567608.1082520484924316406250
+1	8	0	0	0	25261013	0	0	25255973	0	0	66624	/wordpress/wp-content/themes/astrid/fonts/fontawesome-webfont.woff2?v=4.5.0
+1	0	0	1	0	0	25200781	0	0	25200781	0	0	/wordpress/wp-admin/post.php?post=1&action=trash&_wpnonce=53c5eb2631
+1	2	0	0	0	25229461	0	0	25210637	0	0	232378	/wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load[]=dashicons,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-pointer,widgets,site-icon&load[]=,l10n,buttons,customize-controls,customize-widgets,customize-nav-menus,wp-color-picker,media-views,code-editor&ver=4.9.1
+1	1	0	0	0	25187829	0	0	25187829	0	0	46360	/wordpress/wp-includes/css/dashicons.min.css?ver=4.9
+1	1	0	0	0	25255982	0	0	25255982	0	0	23608	/wordpress/wp-admin/js/iris.min.js?ver=1.0.7
+1	4	0	0	0	25255721	0	0	25210623	0	0	4068	/wordpress/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=4.9.1
+1	6	6	0	0	25247335	0	0	25210634	0	0	360706	/wordpress/2017/12/06/kiirklahvid/
+1	1	1	0	0	25255973	0	0	25255973	0	0	47543	/wordpress/?customize_changeset_uuid=29ca485a-dd0b-4d68-b9cf-e3dbfed6ca9e&customize_theme=astrid&customize_messenger_channel=preview-0
+1	2	0	0	0	25187767	0	0	25187622	0	0	11300	/wordpress/wp-admin/css/install.min.css?ver=4.9
+1	1	0	0	0	25197652	0	0	25197652	0	0	9887	/wordpress/wp-includes/js/imgareaselect/jquery.imgareaselect.min.js?ver=4.9
+1	2	0	0	0	25197637	0	0	25187830	0	0	25769	/wordpress/wp-includes/css/editor.min.css?ver=4.9
+1	1	0	0	0	25218145	0	0	25218145	0	0	135631	/wordpress/wp-admin/post.php?post=32&action=edit&message=6
+1	1	0	0	0	25187829	0	0	25187829	0	0	324	/wordpress/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+1	1	0	0	0	25197645	0	0	25197645	0	0	22386	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,wp-ajax-response,password-strength-meter,underscore,wp-util,user-profile,svg-painter,heartbeat,wp-a&load[]=uth-check&ver=4.9
+1	1	0	0	0	25261016	0	0	25261016	0	0	293089	/wordpress/wp-admin/post.php?post=32&action=edit&message=1
+1	1	0	0	0	25210637	0	0	25210637	0	0	5050	/wordpress/wp-includes/js/customize-preview-nav-menus.min.js?ver=4.9.1
+1	1	0	0	0	25200642	0	0	25200642	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1511944963.7069430351257324218750
+1	2	0	0	0	25200794	0	0	25197652	0	0	1726	/wordpress/wp-admin/images/arrows-2x.png
+1	3	0	0	0	25255721	0	0	25210637	0	0	5924	/wordpress/wp-admin/js/widgets/text-widgets.min.js?ver=4.9.1
+1	1	0	0	0	25197652	0	0	25197652	0	0	11305	/wordpress/wp-includes/js/wplink.min.js?ver=4.9
+1	1	0	0	0	25255966	0	0	25255966	0	0	41643	/wordpress/wp-admin/load-scripts.php?c=1&load[]=jquery-core,jquery-migrate,utils,zxcvbn-async&ver=4.9.1
+1	4	0	0	0	25255721	0	0	25197652	0	0	15899	/wordpress/wp-includes/js/codemirror/codemirror.min.css?ver=5.29.1-alpha-ee20357
+1	7	7	0	0	25261028	0	0	25261019	0	0	211786	/wordpress/kolmas-postitus/?preview_id=34&preview_nonce=c4904814e7&post_format=standard&_thumbnail_id=-1&preview=true
+1	1	0	0	0	25261006	0	0	25261006	0	0	226882	/wordpress/wp-admin/plugin-install.php?tab=search&type=tag&s=plugins
+1	11	0	0	0	25259871	0	0	25259859	0	0	8156	/PHP/vormid.php
+1	4	0	0	0	25255721	0	0	25197652	0	0	17735	/wordpress/wp-includes/js/codemirror/htmlhint.js?ver=0.9.14-xwp
+1	1	0	0	0	25255725	0	0	25255725	0	0	279578	/wordpress/wp-admin/post.php?post=38&action=edit
+1	1	0	0	0	25197648	0	0	25197648	0	0	77873	/wordpress/wp-admin/load-scripts.php?c=1&load[]=jquery-core,jquery-migrate,utils,moxiejs,plupload&ver=4.9
+1	1	0	0	0	25187829	0	0	25187829	0	0	1046	/wordpress/wp-includes/js/wp-util.min.js?ver=4.9
+1	2	0	0	0	25187767	0	0	25187622	0	0	12288	/wordpress/wp-includes/css/buttons.min.css?ver=4.9
+1	3	0	0	0	25255720	0	0	25210623	0	0	51538	/wordpress/wp-includes/css/editor.min.css?ver=4.9.1
+1	5	0	0	0	25255996	0	0	25197652	0	0	1588066	/wordpress/wp-admin/customize.php?return=/wordpress/wp-admin/themes.php
+1	0	0	1	0	0	25256116	0	0	25256116	0	0	/wordpress/wp-login.php?action=rp&key=ZhloNHm8iw0AIbeaw5TO&login=tarviliivak
+1	4	0	0	0	25255721	0	0	25197648	0	0	11232	/wordpress/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.6-78496d1
+1	8	0	0	0	25260994	0	0	25229414	0	0	11563	/wordpress/wp-content/plugins/akismet/_inc/akismet.css?ver=4.0.2
+1	1	0	0	0	25229462	0	0	25229462	0	0	4462	/wordpress/wp-includes/js/wp-custom-header.min.js?ver=4.9.1
+1	1	0	0	0	25197652	0	0	25197652	0	0	10900	/wordpress/wp-includes/js/customize-preview.min.js?ver=4.9
+1	2	0	0	0	25197636	0	0	25187765	0	0	13472	/cgi-sys/defaultwebpage.cgi
+1	1	0	0	0	25187830	0	0	25187830	0	0	3238	/wordpress/wp-admin/install.php?step=2
+1	1	0	0	0	25187829	0	0	25187829	0	0	6084	/wordpress/wp-admin/install.php?step=1
+1	2	0	0	0	25200757	0	0	25187830	0	0	2658	/wordpress/wp-includes/js/thickbox/thickbox.css?ver=4.9
+1	1	0	0	0	25255982	0	0	25255982	0	0	10987	/wordpress/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4
+1	1	0	0	0	25210619	0	0	25210619	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1512543542.7754731178283691406250
+1	6	0	0	0	25255721	0	0	25197635	0	0	38410	/wordpress/wp-content/themes/twentyseventeen/assets/js/global.js?ver=1.0
+1	2	0	0	0	25255982	0	0	25197652	0	0	26326	/wordpress/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105
+1	3	3	0	0	25086876	0	0	25086876	0	0	2313	/veeb/
+1	2	0	0	0	25255987	0	0	25210620	0	0	37536	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,underscore,svg-painter,heartbeat,wp-auth-check&ver=4.9.1
+1	1	0	0	0	25200756	0	0	25200756	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1511951794.5806980133056640625000
+1	1	0	0	0	25255971	0	0	25255971	0	0	47656	/wordpress/wp-admin/edit.php?post_type=page&trashed=1&ids=38
+1	1	0	0	0	25261015	0	0	25261015	0	0	582	/wordpress/wp-json/oembed/1.0/proxy?url=https://www.youtube.com/watch%3Fv%3Dxa13Msb9rRA
+1	1	0	0	0	25255965	0	0	25255965	0	0	37046	/wordpress/wp-admin/options-discussion.php?settings-updated=true
+1	1	1	0	0	25255983	0	0	25255983	0	0	47542	/wordpress/?customize_changeset_uuid=a136bd81-a156-480a-984d-d4943c8bad78&customize_theme=astrid&customize_messenger_channel=preview-1
+1	1	1	0	0	25255983	0	0	25255983	0	0	47542	/wordpress/?customize_changeset_uuid=a136bd81-a156-480a-984d-d4943c8bad78&customize_theme=astrid&customize_messenger_channel=preview-0
+1	0	0	1	0	0	25229413	0	0	25229413	0	0	/wordpress/wp-admin/plugins.php?action=activate&plugin=akismet/akismet.php&_wpnonce=9ee936e84a
+1	1	0	0	0	25229413	0	0	25229413	0	0	25362	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,underscore,wp-util,wp-a11y,updates,svg-painter&ver=4.9.1
+1	1	0	0	0	25210634	0	0	25210634	0	0	148041	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,heartbeat,autosave,wp-ajax-response,jquery-color,wp-lists,quicktags,jquery-query,admin-comments,sug&load[]=gest,jquery-ui-core,jquery-ui-widget,jquery-ui-mouse,jquery-ui-sortable,postbox,jquery-ui-position,jquery-ui-menu,wp-a11y,jquery&load[]=-ui-autocomplete,tags-suggest,tags-box,underscore,word-count,post,editor-expand,thickbox,shortcode,backbone,wp-util,wp-backbone,&load[]=media-models,wp-plupload,wp-mediaelement,wp-api-request,media-views,media-editor,media-audiovideo,mce-view,imgareaselect,image-e&load[]=dit,svg-painter,wp-auth-check,editor,wplink,media-upload,wp-embed&ver=4.9.1
+1	1	0	0	0	25255964	0	0	25255964	0	0	30126	/wordpress/wp-admin/options-reading.php?settings-updated=true
+1	5	0	0	0	25255962	0	0	25197640	0	0	321723	/wordpress/wp-admin/options-general.php
+1	1	0	0	0	25210623	0	0	25210623	0	0	102950	/wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load[]=dashicons,admin-bar,buttons,media-views,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menu&load[]=s,wp-pointer,widgets,site-icon,l10n,wp-auth-check&ver=4.9.1
+1	1	0	0	0	25197652	0	0	25197652	0	0	3169	/wordpress/wp-admin/js/code-editor.min.js?ver=4.9
+1	2	0	0	0	25261000	0	0	25229431	0	0	201500	/wordpress/wp-admin/index.php?page=wpbc-about
+1	9	0	0	0	25261026	0	0	25255724	0	0	2296	/wordpress/wp-content/plugins/booking/assets/img/bc_black-16x16.png
+1	1	1	0	0	25255986	0	0	25255986	0	0	25957	/wordpress/?preview_id=2&preview_nonce=2f7148d95b&_thumbnail_id=-1&preview=true
+1	0	0	1	0	0	25229431	0	0	25229431	0	0	/wordpress/wp-admin/plugins.php?_wpnonce=cb6f5baa87&action=activate&plugin=booking/wpdev-booking.php
+1	1	0	0	0	25210623	0	0	25210623	0	0	234	/wordpress/wp-admin/images/resize-2x.gif
+1	1	1	0	0	25086877	0	0	25086877	0	0	1055	/veeb/html/praks5/struktuur.html
+1	3	0	0	0	25187797	0	0	25187622	0	0	33195	/wordpress/wp-admin/setup-config.php
+1	1	0	0	0	25210637	0	0	25210637	0	0	67407	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,wp-ajax-response,jquery-color,wp-lists,quicktags,jquery-query,admin-comments,jquery-ui-core,jquery-&load[]=ui-widget,jquery-ui-mouse,jquery-ui-sortable,postbox,underscore,wp-util,wp-a11y,dashboard,thickbox,plugin-install,updates,shortc&load[]=ode,media-upload,svg-painter,heartbeat,wp-auth-check&ver=4.9.1
+1	1	0	0	0	25218134	0	0	25218134	0	0	135761	/wordpress/wp-admin/post.php?post=23&action=edit
+1	1	0	0	0	25219338	0	0	25219338	0	0	0	/wordpress/wp-cron.php?doing_wp_cron=1513066701.8018589019775390625000
+1	1	0	0	0	25229431	0	0	25229431	0	0	42253	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,svg-painter,heartbeat,wp-auth-check,jquery-ui-core,jquery-ui-widget,jquery-ui-mouse,jquery-ui-dragg&load[]=able,jquery-ui-slider,jquery-touch-punch,iris,wp-color-picker,jquery-ui-sortable&ver=4.9.1
+1	1	0	0	0	25210628	0	0	25210628	0	0	0	/wordpress/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=press
+1	23	0	0	0	25262502	0	0	25261352	0	0	1825	/PHP/salvestus.php
+1	4	0	0	0	25219577	0	0	25210634	0	0	5592	/wordpress/wp-includes/js/wp-embed.min.js?ver=4.9.1
+1	1	0	0	0	25210623	0	0	25210623	0	0	9095	/wordpress/wp-content/themes/twentyseventeen/assets/css/editor-style.css?wp-mce-4607-20171116
+1	1	0	0	0	25197652	0	0	25197652	0	0	1153	/wordpress/wp-admin/js/media-upload.min.js?ver=4.9
+1	5	0	0	0	25255721	0	0	25229431	0	0	1532	/wordpress/wp-content/plugins/booking/core/any/css/settings-page.css?ver=8.1
+1	3651	0	0	0	25223740	0	0	25223714	0	0	930736	/PHP/varviline_tekst.php
+1	2	0	0	0	25255975	0	0	25210632	0	0	7084	/wordpress/wp-includes/images/uploader-icons-2x.png
+1	1	0	0	0	25197652	0	0	25197652	0	0	112124	/wordpress/wp-admin/load-scripts.php?c=1&load[]=jquery-core,jquery-migrate,utils,jquery-ui-core,jquery-ui-widget,jquery-ui-mouse,jquery-ui-sortable,underscore,shortcode,backbon&load[]=e,wp-util,wp-backbone,media-models,moxiejs,plupload,wp-plupload&ver=4.9
+1	5	0	0	0	25255721	0	0	25229431	0	0	21344	/wordpress/wp-content/plugins/booking/assets/libs/chosen/chosen.jquery.min.js?ver=1.1
+1	8	8	0	0	25187827	0	0	25086876	0	0	8546	/
+1	0	0	0	12	0	0	25197637	0	0	25187769	0	/wordpress/wp-admin/setup-config.php?step=2
+1	1	0	0	0	25187797	0	0	25187797	0	0	2735	/wordpress/wp-admin/setup-config.php?step=1
+1	2	0	0	0	25187797	0	0	25187767	0	0	4486	/wordpress/wp-admin/setup-config.php?step=0
+1	6	0	0	0	25261026	0	0	25261013	0	0	32876	/wordpress/wp-content/plugins/booking/css/timeline.css?ver=8.1.1
+1	1	0	0	0	25260998	0	0	25260998	0	0	152621	/wordpress/wp-admin/plugin-install.php?tab=popular
+1	1	0	0	0	25255982	0	0	25255982	0	0	1153	/wordpress/wp-admin/js/media-upload.min.js?ver=4.9.1
+1	3	0	0	0	25255721	0	0	25210637	0	0	100519	/wordpress/wp-includes/js/media-views.min.js?ver=4.9.1
+1	1	1	0	0	25218134	0	0	25218134	0	0	63989	/wordpress/2017/12/06/kiirklahvid/?preview_id=23&preview_nonce=b5ee39dbc2&post_format=standard&_thumbnail_id=24&preview=true
+1	2	0	0	0	25255988	0	0	25255988	0	0	2	/wordpress/wp-admin/admin-ajax.php?action=oembed-cache&post=45
+1	1	0	0	0	25200794	0	0	25200794	0	0	171858	/wordpress/wp-content/uploads/2017/11/sandwich-1.jpg
+1	2	2	0	0	25086876	0	0	25086876	0	0	2976	/veeb/html/
+1	6	0	0	0	25255720	0	0	25210620	0	0	59575	/wordpress/wp-includes/js/wp-emoji-release.min.js?ver=4.9.1
+1	1	1	0	0	25187622	0	0	25187622	0	0	1159	/?193.40.62.2
+1	2	0	0	0	25229413	0	0	25210620	0	0	189254	/wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load[]=dashicons,admin-bar,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-pointer,widgets&load[]=,site-icon,l10n,buttons,wp-auth-check&ver=4.9.1
+1	1	0	0	0	25255982	0	0	25255982	0	0	14896	/wordpress/wp-admin/load-scripts.php?c=1&load[]=hoverIntent,common,admin-bar,jquery-ui-draggable,jquery-ui-droppable&ver=4.9.1
+1	1	0	0	0	25255724	0	0	25255724	0	0	1	/wordpress/wp-admin/admin-ajax.php?action=oembed-cache&post=38
+1	2	0	0	0	25255721	0	0	25229462	0	0	12751	/wordpress/wp-content/plugins/booking/css/client.css?ver=8.1
+1	9	0	0	0	25261027	0	0	25218146	0	0	9	/wordpress/wp-admin/admin-ajax.php?action=oembed-cache&post=34
+1	1	0	0	0	25210628	0	0	25210628	0	0	0	/wordpress/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=klah
+1	2	0	0	0	25261016	0	0	25218145	0	0	2	/wordpress/wp-admin/admin-ajax.php?action=oembed-cache&post=32
+1	2	0	0	0	25261012	0	0	25218145	0	0	2	/wordpress/wp-admin/admin-ajax.php?action=oembed-cache&post=30
+1	1	0	0	0	25261019	0	0	25261019	0	0	603	/wordpress/wp-includes/js/tinymce/skins/wordpress/images/more-2x.png
+1	3	0	0	0	25210619	0	0	25187830	0	0	23830	/wordpress/wp-includes/js/wp-emoji-release.min.js?ver=4.9
+1	1	0	0	0	25256116	0	0	25256116	0	0	9381	/wordpress/wp-admin/load-scripts.php?c=1&load[]=password-strength-meter,underscore,wp-util,user-profile&ver=4.9.1
+1	3	3	0	0	25218165	0	0	25218145	0	0	186755	/wordpress/2017/12/11/esimene-postitus/
+1	1	0	0	0	25210634	0	0	25210634	0	0	1	/wordpress/wp-admin/admin-ajax.php?action=oembed-cache&post=23
+1	1	1	0	0	25210637	0	0	25210637	0	0	101018	/wordpress/2017/12/06/kiirklahvid/?customize_changeset_uuid=5a5c588d-d9e8-42e2-a31a-1a4f2e524f27&customize_theme=twentyseventeen&customize_messenger_channel=preview-0
+1	1	0	0	0	25261352	0	0	25261352	0	0	0	/PHP/salvestus.php?193.40.62.14
+1	8	0	0	0	25261015	0	0	25210632	0	0	5978	/wordpress/wp-content/uploads/2017/12/CtrlAltDel-300x111.jpg
+1	8	0	0	0	25255996	0	0	25255969	0	0	132389	/wordpress/wp-content/themes/graphene/screenshot.png
+1	5	0	0	0	25255967	0	0	25197644	0	0	172906	/wordpress/wp-admin/users.php
+1	1	0	0	0	25210628	0	0	25210628	0	0	2254	/wordpress/wp-admin/images/loading.gif
+1	3	0	0	0	25255721	0	0	25210637	0	0	2705	/wordpress/wp-admin/js/widgets/media-video-widget.min.js?ver=4.9.1
+1	9	0	0	0	25261026	0	0	25255724	0	0	4388	/wordpress/wp-content/plugins/booking/js/wpbc_tinymce_btn.js?wp-mce-4607-20171116
+1	10	0	0	0	25261023	0	0	25255973	0	0	335776	/wordpress/wp-content/themes/astrid/images/header-mobile.jpg
+3	1	0	0	0	25261019	0	0	25261019	0	0	603	http://ap.ikt.khk.ee/wordpress/wp-includes/js/tinymce/skins/wordpress/wp-content.css?ver=4.9.1&wp-mce-4607-20171116
+3	1	0	0	0	25261012	0	0	25261012	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1515567146.3867299556732177734375
+3	4	0	0	0	25255987	0	0	25210620	0	0	14068	http://ap.ikt.khk.ee/wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load[]=dashicons,admin-bar,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-pointer,widgets&load[]=,site-icon,l10n,buttons,wp-auth-check&ver=4.9.1
+3	8	1	0	0	25255986	0	0	25255986	0	0	28318	http://ap.ikt.khk.ee/wordpress/?preview_id=2&preview_nonce=2f7148d95b&_thumbnail_id=-1&preview=true
+3	2	2	0	0	25218165	0	0	25218147	0	0	70034	http://ap.ikt.khk.ee/wordpress/2017/12/11/teine-postitus/
+3	5	0	4	0	25218146	25218146	0	25210634	25210634	0	678428	http://ap.ikt.khk.ee/wordpress/wp-admin/post-new.php?wp-post-new-reload=true
+3	8	0	0	0	25262502	0	0	25261391	0	0	1521	http://ap.ikt.khk.ee/PHP/salvestus.php
+3	1	0	0	0	25255989	0	0	25255989	0	0	0	http://ap.ikt.khk.ee/wordpress/?customize_changeset_uuid=6960d6f1-e62b-4e01-bffe-3790a89bafcd&customize_theme=astrid&customize_messenger_channel=preview-0
+3	2	2	0	0	25086876	0	0	25086876	0	0	3020	http://ap.ikt.khk.ee/veeb/html/
+3	12	4	6	1	25260994	25260994	25256116	25187830	25187830	25256116	565434	http://ap.ikt.khk.ee/wordpress/wp-login.php
+3	14	0	0	0	25255725	0	0	25197648	0	0	470795	http://ap.ikt.khk.ee/wordpress/wp-admin/edit-comments.php
+3	6	0	0	0	25255992	0	0	25255992	0	0	0	http://ap.ikt.khk.ee/wordpress/kiirklahvid/?customize_changeset_uuid=6960d6f1-e62b-4e01-bffe-3790a89bafcd&customize_theme=astrid&customize_messenger_channel=preview-6&customize_autosaved=on
+3	1	0	0	0	25218146	0	0	25218146	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1512995176.1980578899383544921875
+3	12	0	0	0	25187797	0	0	25187622	0	0	243302	http://ap.ikt.khk.ee/wordpress/wp-admin/setup-config.php
+3	1	0	0	0	25255995	0	0	25255995	0	0	0	http://ap.ikt.khk.ee/wordpress/kolmas-postitus/?customize_changeset_uuid=fedd084a-24b0-4578-b2d4-995ccab93e9d&customize_theme=astrid&customize_messenger_channel=preview-0
+3	0	0	0	1	0	0	25261003	0	0	25261003	0	http://ap.ikt.khk.ee/wordpress/wp-admin/plugin-install.php?s=&tab=search&type=author
+3	11	0	0	0	25261017	0	0	25261013	0	0	0	http://ap.ikt.khk.ee/wordpress/teine-postitus/
+3	0	0	0	1	0	0	25218032	0	0	25218032	0	http://ap.ikt.khk.ee/PHP/mina.php
+3	10	1	0	0	25210955	0	0	25210634	0	0	543382	http://ap.ikt.khk.ee/wordpress/2017/12/06/kiirklahvid/
+3	5	0	1	0	25255965	25255965	0	25210645	25255965	0	109025	http://ap.ikt.khk.ee/wordpress/wp-admin/options-discussion.php
+3	0	0	0	8	0	0	25187789	0	0	25187769	0	http://ap.ikt.khk.ee/wordpress/wp-admin/setup-config.php?step=1&language=et
+3	1	0	0	0	25261003	0	0	25261003	0	0	2989	http://ap.ikt.khk.ee/wordpress/wp-admin/plugin-install.php?s=Demarle&tab=search&type=author
+3	21	2	0	0	25261027	0	0	25255987	0	0	926106	http://ap.ikt.khk.ee/wordpress/kolmas-postitus/
+3	2	0	0	0	25260995	0	0	25260995	0	0	42042	http://ap.ikt.khk.ee/wordpress/wp-admin/plugins.php?s=polygang&plugin_status=all
+3	0	0	0	1	0	0	25261002	0	0	25261002	0	http://ap.ikt.khk.ee/wordpress/wp-admin/plugin-install.php?s=p&tab=search&type=term
+3	1	0	0	0	25260997	0	0	25260997	0	0	2979	http://ap.ikt.khk.ee/wordpress/wp-admin/plugin-install.php?s=polylan&tab=search&type=term
+3	1	0	0	0	25229430	0	0	25229430	0	0	133775	http://ap.ikt.khk.ee/wordpress/wp-admin/plugin-install.php?s=booking+&tab=search&type=term
+3	14	1	1	0	25255742	25255725	0	25255724	25255725	0	112695	http://ap.ikt.khk.ee/wordpress/wp-admin/post.php?post=38&action=edit
+3	5	0	0	0	25255965	0	0	25197641	0	0	98780	http://ap.ikt.khk.ee/wordpress/wp-admin/options-media.php
+3	1	1	0	0	25217059	0	0	25217059	0	0	54250	http://www.sexybang.top/
+3	1	0	0	0	25229414	0	0	25229414	0	0	57147	http://ap.ikt.khk.ee/wordpress/wp-admin/plugins.php?plugin_status=all&paged=1&s
+3	91	0	0	0	25256000	0	0	25197647	0	0	6456740	http://ap.ikt.khk.ee/wordpress/wp-admin/themes.php
+3	1	0	0	0	25210634	0	0	25210634	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1512544482.4438269138336181640625
+3	10	8	0	22	25255994	0	25255994	25255989	0	25255990	363750	http://ap.ikt.khk.ee/wordpress/wp-admin/customize.php?url=http://ap.ikt.khk.ee/wordpress/
+3	32	2	2	0	25261013	25261013	0	25218145	25261012	0	1033837	http://ap.ikt.khk.ee/wordpress/wp-admin/post.php?post=30&action=edit
+3	5	0	0	1	25187765	0	25187765	25187765	0	25187765	23119	http://ap.ikt.khk.ee/cgi-sys/defaultwebpage.cgi
+3	1	0	0	0	25261020	0	0	25261020	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1515567608.1082520484924316406250
+3	2	0	2	0	25261000	25261000	0	25261000	25261000	0	105315	http://ap.ikt.khk.ee/wordpress/wp-admin/update.php?action=upgrade-plugin&plugin=booking/wpdev-booking.php&_wpnonce=9172fe024d
+3	4	0	0	0	25261008	0	0	25261006	0	0	280219	http://ap.ikt.khk.ee/wordpress/wp-admin/plugin-install.php?s=polylang&tab=search&type=tag
+3	3	0	0	0	25210632	0	0	25210623	0	0	6030	http://ap.ikt.khk.ee/wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load[]=dashicons,admin-bar,buttons,media-views,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menu&load[]=s,wp-pointer,widgets,site-icon,l10n,wp-auth-check&ver=4.9.1
+3	2	0	0	0	25255972	0	0	25255968	0	0	47033	http://ap.ikt.khk.ee/wordpress/wp-admin/theme-install.php
+3	0	0	0	6	0	0	25255721	0	0	25229431	0	http://ap.ikt.khk.ee/wordpress/wp-content/plugins/booking/core/any/css/admin-support.css?ver=8.1
+3	154	0	0	0	25255721	0	0	25229431	0	0	1054530	http://ap.ikt.khk.ee/wordpress/wp-admin/admin.php?page=wpbc
+3	124	1	1	0	25261109	25200781	0	25197648	25200781	0	2476838	http://ap.ikt.khk.ee/wordpress/wp-admin/edit.php
+3	8	0	0	0	25255973	0	0	25255973	0	0	98711	http://ap.ikt.khk.ee/wordpress/?customize_changeset_uuid=29ca485a-dd0b-4d68-b9cf-e3dbfed6ca9e&customize_theme=astrid&customize_messenger_channel=preview-0
+3	61	0	0	0	25218146	0	0	25210623	0	0	620058	http://ap.ikt.khk.ee/wordpress/wp-admin/post-new.php
+3	253	0	0	0	25220759	0	0	25220746	0	0	6621	http://ap.ikt.khk.ee/PHP/kuud.php
+3	15	0	0	0	25197652	0	0	25197652	0	0	468143	http://ap.ikt.khk.ee/wordpress/?customize_changeset_uuid=36713cde-93f7-4e52-9f1e-c5261cd0588c&customize_theme=twentyseventeen&customize_messenger_channel=preview-0
+3	4	0	1	0	25255966	25255966	0	25197644	25255966	0	99332	http://ap.ikt.khk.ee/wordpress/wp-admin/options-permalink.php
+3	1	0	0	0	25200642	0	0	25200642	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1511944963.7069430351257324218750
+3	1	0	0	0	25261006	0	0	25261006	0	0	2974	http://ap.ikt.khk.ee/wordpress/wp-admin/plugin-install.php?s=polylam&tab=search&type=tag
+3	2	0	0	0	25229414	0	0	25229414	0	0	21125	http://ap.ikt.khk.ee/wordpress/wp-admin/plugins.php?activate=true&plugin_status=all&paged=1&s=
+3	1	0	0	0	25255720	0	0	25255720	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1515249620.1361370086669921875000
+3	1	0	0	0	25210619	0	0	25210619	0	0	1	http://ap.ikt.khk.ee/wordpress/wp-admin/upgrade.php?step=upgrade_db
+3	2	1	0	0	25255725	0	0	25255725	0	0	69662	http://ap.ikt.khk.ee/wordpress/pealkiri/?preview_id=38&preview_nonce=f0419c08fa&_thumbnail_id=-1&preview=true
+3	1	0	0	0	25229430	0	0	25229430	0	0	3800	http://ap.ikt.khk.ee/wordpress/wp-admin/plugins.php?s=booking ca&plugin_status=all
+3	1	0	0	0	25261026	0	0	25261026	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1515567979.3198199272155761718750
+3	1	0	0	0	25261020	0	0	25261020	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1515567655.2082989215850830078125
+3	14	1	0	11	25255982	0	25255982	25255974	0	25255975	114699	http://ap.ikt.khk.ee/wordpress/wp-admin/customize.php?return=/wordpress/wp-admin/themes.php&autofocus[control]=background_image
+3	6	0	1	0	25255964	25255964	0	25210621	25255964	0	125582	http://ap.ikt.khk.ee/wordpress/wp-admin/options-reading.php
+3	9	0	0	1	25262520	0	25262484	25262486	0	25262484	4147	http://ap.ikt.khk.ee/PHP/aeg.php
+3	1	0	0	0	25261016	0	0	25261016	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1515567403.4803409576416015625000
+3	0	0	0	1	0	0	25228240	0	0	25228240	0	http://ap.ikt.khk.ee/PHP/funktsioonid2.php
+3	0	0	0	6	0	0	25259695	0	0	25229329	0	http://ap.ikt.khk.ee/PHP/massiivid.php
+3	60	0	0	1	25255725	0	25255725	25187830	0	25255725	1491754	http://ap.ikt.khk.ee/wordpress/wp-admin/
+3	2	0	0	0	25229429	0	0	25219377	0	0	82036	http://ap.ikt.khk.ee/wordpress/wp-admin/tools.php
+3	16	2	0	0	25261017	0	0	25261013	0	0	297780	http://ap.ikt.khk.ee/wordpress/esimene-postitus/?preview_id=30&preview_nonce=3443d95307&post_format=standard&_thumbnail_id=-1&preview=true
+3	17	0	1	0	25255968	25255968	0	25197652	25255968	0	186789	http://ap.ikt.khk.ee/wordpress/wp-admin/profile.php?wp_http_referer=/wordpress/wp-admin/users.php
+3	1	1	0	0	25229374	0	0	25229374	0	0	56788	http://www.sexfg.pw/
+3	0	0	0	1	0	0	25261032	0	0	25261032	0	http://ap.ikt.khk.ee/wordpress/wp-admin/plugin-install.php?s=po&tab=search&type=term
+3	15	0	0	0	25255987	0	0	25218132	0	0	67401	http://ap.ikt.khk.ee/wordpress/wp-admin/post-new.php?post_type=page
+3	1	0	0	0	25229430	0	0	25229430	0	0	152000	http://ap.ikt.khk.ee/wordpress/wp-admin/plugin-install.php?s=booking+calendar&tab=search&type=term
+3	36	0	1	0	25261017	25261016	0	25218145	25261016	0	491695	http://ap.ikt.khk.ee/wordpress/wp-admin/post.php?post=32&action=edit
+3	5	2	0	3	25255985	0	25255985	25255983	0	25255984	165044	http://ap.ikt.khk.ee/wordpress/wp-admin/customize.php
+3	8	0	0	0	25261013	0	0	25255973	0	0	66624	http://ap.ikt.khk.ee/wordpress/wp-content/themes/astrid/fonts/font-awesome.min.css?ver=4.9.1
+3	1	0	0	0	25187830	0	0	25187830	0	0	2319	http://ap.ikt.khk.ee/wordpress/wp-admin/install.php?step=2
+3	4	0	0	0	25210620	0	0	25210620	0	0	166836	http://ap.ikt.khk.ee/wordpress/wp-admin/about.php?updated
+3	13	0	0	0	25229462	0	0	25229462	0	0	81438	http://ap.ikt.khk.ee/wordpress/?customize_changeset_uuid=6bb07de1-3e8b-47ee-ad9f-55c42f130d49&customize_theme=twentyseventeen&customize_messenger_channel=preview-0
+3	7	0	0	0	25187830	0	0	25187829	0	0	850363	http://ap.ikt.khk.ee/wordpress/wp-admin/install.php?step=1
+3	4	4	0	0	25086877	0	0	25086877	0	0	4527	http://ap.ikt.khk.ee/veeb/html/praks5/
+3	1	0	0	0	25255958	0	0	25255958	0	0	48346	http://ap.ikt.khk.ee/wordpress/wp-admin/themes.php?theme=twentyseventeen
+3	1	1	0	0	25255988	0	0	25255988	0	0	25800	http://ap.ikt.khk.ee/wordpress/jargmine-lehe-teema/?preview=true
+3	1	0	0	0	25210619	0	0	25210619	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1512543542.7754731178283691406250
+3	15	2	1	0	25218143	25218134	0	25210634	25218134	0	407761	http://ap.ikt.khk.ee/wordpress/wp-admin/post.php?post=23&action=edit
+3	1	0	0	0	25197635	0	0	25197635	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1511764554.3130249977111816406250
+3	2	0	0	0	25261032	0	0	25261001	0	0	164586	http://ap.ikt.khk.ee/wordpress/wp-admin/plugin-install.php?s=pol&tab=search&type=term
+3	1	0	0	0	25218181	0	0	25218181	0	0	55863	http://ap.ikt.khk.ee/wordpress/wp-admin/edit-comments.php?comment_status=moderated
+3	3	3	0	0	25086876	0	0	25086876	0	0	3772	http://ap.ikt.khk.ee/veeb/
+3	1	0	0	0	25261031	0	0	25261031	0	0	74905	http://ap.ikt.khk.ee/wordpress/wp-admin/edit-tags.php?taxonomy=post_tag
+3	2	0	0	0	25255971	0	0	25255971	0	0	55193	http://ap.ikt.khk.ee/wordpress/wp-admin/edit.php?post_type=page&ids=38
+3	1	0	0	0	25200756	0	0	25200756	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1511951794.5806980133056640625000
+3	1	0	0	0	25217059	0	0	25217059	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1512929948.3874599933624267578125
+3	1	0	0	0	25229431	0	0	25229431	0	0	23672	http://ap.ikt.khk.ee/wordpress/wp-admin/plugin-install.php?s=bookin&tab=search&type=term
+3	310	0	0	11	25261179	0	25261109	25197651	0	25255720	2548875	http://ap.ikt.khk.ee/wordpress/wp-admin/index.php
+3	0	0	0	1	0	0	25261001	0	0	25261001	0	http://ap.ikt.khk.ee/wordpress/wp-admin/plugin-install.php?s=%C3%BC&tab=search&type=term
+3	6	0	0	0	25255983	0	0	25255983	0	0	0	http://ap.ikt.khk.ee/wordpress/?customize_changeset_uuid=a136bd81-a156-480a-984d-d4943c8bad78&customize_theme=astrid&customize_messenger_channel=preview-0
+3	2228	0	0	0	25223773	0	0	25223761	0	0	3667288	http://ap.ikt.khk.ee/PHP/varv.php
+3	8	0	0	0	25255974	0	0	25255974	0	0	0	http://ap.ikt.khk.ee/wordpress/?customize_changeset_uuid=cff0c87a-8228-4625-8e52-d35f4736ea42&customize_theme=astrid&customize_messenger_channel=preview-0
+3	1	0	0	0	25261027	0	0	25261027	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1515568078.3991830348968505859375
+3	2	0	1	0	25255969	25255969	0	25255969	25255969	0	50623	http://ap.ikt.khk.ee/wordpress/wp-admin/theme-install.php?theme=graphene
+3	56	4	0	3	25255997	0	25255997	25197652	0	25255996	3497525	http://ap.ikt.khk.ee/wordpress/wp-admin/customize.php?return=/wordpress/wp-admin/themes.php
+3	3	0	0	0	25256116	0	0	25256116	0	0	873193	http://ap.ikt.khk.ee/wordpress/wp-login.php?action=rp
+3	2	0	2	0	25255988	25255988	0	25255724	25255724	0	562328	http://ap.ikt.khk.ee/wordpress/wp-admin/post-new.php?post_type=page&wp-post-new-reload=true
+3	1	0	0	0	25200791	0	0	25200791	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1511953863.1581189632415771484375
+3	2	0	0	0	25200782	0	0	25200782	0	0	43877	http://ap.ikt.khk.ee/wordpress/wp-admin/edit.php?post_status=trash&post_type=post&paged=1
+3	2	0	0	0	25200794	0	0	25197652	0	0	1726	http://ap.ikt.khk.ee/wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load[]=dashicons,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-pointer,widgets,site-icon&load[]=,l10n,buttons,customize-controls,customize-widgets,customize-nav-menus,wp-color-picker,media-views,code-editor&ver=4.9
+3	1	0	1	1	25255958	25255958	25255958	25255958	25255958	25255958	46805	http://ap.ikt.khk.ee/wordpress/wp-login.php?redirect_to=http://ap.ikt.khk.ee/wordpress/wp-admin/themes.php&reauth=1
+3	1	0	0	0	25229430	0	0	25229430	0	0	3807	http://ap.ikt.khk.ee/wordpress/wp-admin/plugins.php?s=booking cal&plugin_status=all
+3	73	10	0	7	25261026	0	25219577	25197635	0	25197635	2650003	http://ap.ikt.khk.ee/wordpress/
+3	1	0	0	0	25218145	0	0	25218145	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1512995103.9493389129638671875000
+3	1	0	0	0	25210871	0	0	25210871	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1512558712.5524780750274658203125
+3	5	0	0	0	25200794	0	0	25200794	0	0	406042	http://ap.ikt.khk.ee/wordpress/?customize_changeset_uuid=d857924e-c815-428d-b0e1-dd39333a98c2&customize_theme=twentyseventeen&customize_messenger_channel=preview-0
+3	34	2	0	0	25255734	0	0	25255721	0	0	217063	http://ap.ikt.khk.ee/wordpress/wp-admin/customize.php?theme=twentyseventeen&return=http://ap.ikt.khk.ee/wordpress/wp-admin/themes.php
+3	1	0	0	0	25187830	0	0	25187830	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1511176236.8063879013061523437500
+3	14	0	0	0	25255972	0	0	25255968	0	0	257926	http://ap.ikt.khk.ee/wordpress/wp-admin/theme-install.php?browse=featured
+3	2	0	1	0	25200781	25200781	0	25200781	25200781	0	34372	http://ap.ikt.khk.ee/wordpress/wp-admin/edit.php?post_status=trash&post_type=post
+3	1	0	0	0	25255975	0	0	25255975	0	0	3542	http://ap.ikt.khk.ee/wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load[]=dashicons,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-pointer,widgets,site-icon&load[]=,l10n,buttons,customize-controls,customize-widgets,wp-color-picker,customize-nav-menus,media-views,code-editor&ver=4.9.1
+3	13	0	0	0	25260994	0	0	25197714	0	0	632416	http://ap.ikt.khk.ee/wordpress/wp-admin/update-core.php
+3	1	0	0	0	25261003	0	0	25261003	0	0	2974	http://ap.ikt.khk.ee/wordpress/wp-admin/plugin-install.php?s=poly&tab=search&type=author
+3	8	1	0	1	25255973	0	25255973	25255973	0	25255973	1357380	http://ap.ikt.khk.ee/wordpress/wp-admin/customize.php?theme=astrid&return=http://ap.ikt.khk.ee/wordpress/wp-admin/themes.php
+3	4	0	0	0	25187767	0	0	25187622	0	0	15740	http://ap.ikt.khk.ee/wordpress/wp-admin/css/install.min.css?ver=4.9
+3	1	0	0	0	25261021	0	0	25261021	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1515567677.9810609817504882812500
+3	17	0	0	0	25261004	0	0	25197647	0	0	633064	http://ap.ikt.khk.ee/wordpress/wp-admin/plugins.php
+3	1	0	0	0	25261023	0	0	25261023	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1515567809.6548850536346435546875
+3	1	0	0	0	25261019	0	0	25261019	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1515567569.4511740207672119140625
+3	5	0	0	0	25255721	0	0	25229431	0	0	18028	http://ap.ikt.khk.ee/wordpress/wp-content/plugins/booking/assets/libs/bootstrap/css/bootstrap.css?ver=3.3.5.1
+3	1	0	0	0	25255721	0	0	25255721	0	0	117627	http://ap.ikt.khk.ee/wordpress/wp-admin/update-core.php?force-check=1
+3	1	0	0	0	25219338	0	0	25219338	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1513066701.8018589019775390625000
+3	43	0	0	0	25255983	0	0	25197652	0	0	753473	http://ap.ikt.khk.ee/wordpress/wp-admin/widgets.php
+3	2	0	0	0	25187829	0	0	25187829	0	0	52444	http://ap.ikt.khk.ee/wordpress/wp-admin/install.php
+3	83	8	10	1	25261182	25261028	25261022	25218146	25261018	25261022	2693335	http://ap.ikt.khk.ee/wordpress/wp-admin/post.php?post=34&action=edit
+3	1	0	0	0	25255971	0	0	25255971	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-admin/edit.php?post_type=page&trashed=1&ids=38
+3	1	0	0	0	25247335	0	0	25247335	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1514746546.9381549358367919921875
+3	1	0	0	0	25261022	0	0	25261022	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1515567767.6041390895843505859375
+3	2	2	1	0	25218166	25218166	0	25218146	25218166	0	123582	http://ap.ikt.khk.ee/wordpress/2017/12/11/kolmas-postitus/
+3	11	5	4	5	25247335	25187829	25187827	25086876	25187622	25086876	10627444	http://ap.ikt.khk.ee/
+3	48	0	1	0	25255987	25255971	0	25197648	25255971	0	1905224	http://ap.ikt.khk.ee/wordpress/wp-admin/edit.php?post_type=page
+3	4	0	0	0	25261031	0	0	25219377	0	0	100993	http://ap.ikt.khk.ee/wordpress/wp-admin/edit-tags.php?taxonomy=category
+3	1	1	0	0	25086876	0	0	25086876	0	0	1488	http://ap.ikt.khk.ee/veeb/html/?C=N;O=D
+3	43	0	0	0	25255967	0	0	25197645	0	0	151232	http://ap.ikt.khk.ee/wordpress/wp-admin/users.php
+3	3	1	0	0	25255995	0	0	25255995	0	0	49838	http://ap.ikt.khk.ee/wordpress/wp-admin/customize.php?url=http://ap.ikt.khk.ee/wordpress/kolmas-postitus/
+3	1	0	0	0	25219577	0	0	25219577	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1513081078.3409960269927978515625
+3	1	1	0	0	25086876	0	0	25086876	0	0	771	http://ap.ikt.khk.ee/veeb/html/?C=N;O=A
+3	16	0	0	0	25255721	0	0	25255721	0	0	0	http://ap.ikt.khk.ee/wordpress/?customize_changeset_uuid=536ddab0-7815-4f5e-b8e0-8df99cb54dfc&customize_theme=twentyseventeen&customize_messenger_channel=preview-0
+3	36	0	0	0	25219376	0	0	25197648	0	0	1047445	http://ap.ikt.khk.ee/wordpress/wp-admin/upload.php
+3	1	0	0	0	25210623	0	0	25210623	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1512543832.0775449275970458984375
+3	23	0	0	8	25261060	0	25261032	25260996	0	25260995	211503	http://ap.ikt.khk.ee/wordpress/wp-admin/plugin-install.php?s=polylang&tab=search&type=term
+3	2	0	0	0	25255975	0	0	25255975	0	0	356	http://ap.ikt.khk.ee/wordpress/wp-includes/js/imgareaselect/imgareaselect.css?ver=0.9.8
+3	1	0	0	0	25229430	0	0	25229430	0	0	5038	http://ap.ikt.khk.ee/wordpress/wp-admin/plugin-install.php?s=booking+calenda&tab=search&type=term
+3	2	0	0	0	25200781	0	0	25200781	0	0	46994	http://ap.ikt.khk.ee/wordpress/wp-admin/edit.php?ids=1
+3	5	0	2	2	25260994	25255720	25255720	25218131	25229413	25229413	170473	http://ap.ikt.khk.ee/wordpress/wp-login.php?redirect_to=http://ap.ikt.khk.ee/wordpress/wp-admin/index.php&reauth=1
+3	1	0	0	0	25212034	0	0	25212034	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1512628466.4476640224456787109375
+3	0	0	0	1	0	0	25223741	0	0	25223741	0	http://ap.ikt.khk.ee/PHP/funktsioonid.php
+3	2	0	1	0	25255970	25255970	0	25255969	25255970	0	55653	http://ap.ikt.khk.ee/wordpress/wp-admin/theme-install.php?theme=cats456
+3	11	0	0	0	25255963	0	0	25197640	0	0	335742	http://ap.ikt.khk.ee/wordpress/wp-admin/options-general.php
+3	3642	0	0	1	25223740	0	25223714	25223721	0	25223714	928710	http://ap.ikt.khk.ee/PHP/varviline_tekst.php
+3	8	0	0	0	25261012	0	0	25261012	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-admin/post.php?post=30&action=edit&message=1
+3	1	0	0	0	25197648	0	0	25197648	0	0	8536	http://ap.ikt.khk.ee/wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load[]=dashicons,admin-bar,buttons,media-views,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menu&load[]=s,wp-pointer,widgets,site-icon,l10n,wp-auth-check&ver=4.9
+3	4	0	0	0	25261002	0	0	25229430	0	0	164231	http://ap.ikt.khk.ee/wordpress/wp-admin/plugins.php?s=&plugin_status=all
+3	1	0	0	0	25260993	0	0	25260993	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1515566039.1550691127777099609375
+3	6	0	0	0	25255994	0	0	25210620	0	0	82053	http://ap.ikt.khk.ee/wordpress/wp-admin/about.php
+3	6	0	0	0	25261032	0	0	25260995	0	0	115128	http://ap.ikt.khk.ee/wordpress/wp-admin/plugin-install.php?s=poly&tab=search&type=term
+3	1	0	0	0	25255724	0	0	25255724	0	0	17484	http://ap.ikt.khk.ee/wordpress/wp-includes/js/tinymce/skins/lightgray/skin.min.css?wp-mce-4607-20171116
+3	1	0	0	0	25262594	0	0	25262594	0	0	564	http://ap.ikt.khk.ee/PHP/andmebaas.php
+3	6	0	0	0	25262502	0	0	25261393	0	0	1728	http://ap.ikt.khk.ee/PHP/valjund.php
+3	0	0	0	4	0	0	25223712	0	0	25223672	0	http://ap.ikt.khk.ee/PHP/tsyklid.php
+3	33	0	0	0	25261006	0	0	25197679	0	0	396413	http://ap.ikt.khk.ee/wordpress/wp-admin/plugin-install.php
+3	10	0	0	0	25210637	0	0	25210637	0	0	49251	http://ap.ikt.khk.ee/wordpress/2017/12/06/kiirklahvid/?customize_changeset_uuid=5a5c588d-d9e8-42e2-a31a-1a4f2e524f27&customize_theme=twentyseventeen&customize_messenger_channel=preview-0
+3	9	0	0	0	25255973	0	0	25255969	0	0	1712169	http://ap.ikt.khk.ee/wordpress/wp-admin/themes.php?activated=true
+3	2	0	0	0	25261003	0	0	25261003	0	0	3131	http://ap.ikt.khk.ee/wordpress/wp-admin/plugin-install.php?s=Fr%C3%A9d%C3%A9ric+Demarle&tab=search&type=author
+3	2	0	0	1	25261004	0	25261004	25261004	0	25261004	46242	http://ap.ikt.khk.ee/wordpress/wp-admin/plugin-install.php?s=Polylang&tab=search&type=term
+3	1	0	0	0	25218145	0	0	25218145	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1512995145.6034801006317138671875
+3	1	0	0	0	25261002	0	0	25261002	0	0	3751	http://ap.ikt.khk.ee/wordpress/wp-admin/plugins.php?s=pol&plugin_status=all
+3	45	0	0	0	25262502	0	0	25261355	0	0	10900	http://ap.ikt.khk.ee/PHP/sisend.php
+3	19	3	4	0	25255996	25255996	0	25255988	25255988	0	419453	http://ap.ikt.khk.ee/wordpress/wp-admin/post.php?post=45&action=edit
+3	26	2	0	0	25210637	0	0	25210637	0	0	712954	http://ap.ikt.khk.ee/wordpress/wp-admin/customize.php?url=http://ap.ikt.khk.ee/wordpress/2017/12/06/kiirklahvid/
+3	7	2	0	0	25255996	0	0	25255988	0	0	53815	http://ap.ikt.khk.ee/wordpress/jargmine-lehe-teema/?preview_id=45&preview_nonce=dadeae4cd1&_thumbnail_id=-1&preview=true
+3	8	0	0	0	25261016	0	0	25261016	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-admin/post.php?post=32&action=edit&message=1
+3	1	0	0	0	25229430	0	0	25229430	0	0	3772	http://ap.ikt.khk.ee/wordpress/wp-admin/plugins.php?s=bookin&plugin_status=all
+3	12	4	0	0	25261022	0	0	25261019	0	0	124089	http://ap.ikt.khk.ee/wordpress/kolmas-postitus/?preview_id=34&preview_nonce=c4904814e7&post_format=standard&_thumbnail_id=-1&preview=true
+3	1	0	0	0	25229374	0	0	25229374	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1513668844.5446369647979736328125
+3	1	1	0	0	25187830	0	0	25187830	0	0	57867	http://ap.ikt.khk.ee/wordpress/2017/11/20/tere-tere/
+3	1	0	0	0	25255967	0	0	25255967	0	0	38558	http://ap.ikt.khk.ee/wordpress/wp-admin/users.php?id=2
+3	3	0	1	0	25229414	25229413	0	25229413	25229413	0	160779	http://ap.ikt.khk.ee/wordpress/wp-admin/update.php?action=upgrade-plugin&plugin=akismet/akismet.php&_wpnonce=6bc27b9813
+3	8	0	0	0	25255991	0	0	25255991	0	0	0	http://ap.ikt.khk.ee/wordpress/?customize_changeset_uuid=6960d6f1-e62b-4e01-bffe-3790a89bafcd&customize_theme=astrid&customize_messenger_channel=preview-1&customize_autosaved=on
+3	1	0	0	0	25210620	0	0	25210620	0	0	33038	http://ap.ikt.khk.ee/wordpress/wp-admin/update-core.php?action=do-core-upgrade
+3	1	0	0	0	25261007	0	0	25261007	0	0	2994	http://ap.ikt.khk.ee/wordpress/wp-admin/plugin-install.php?s=polylang&tab=search&type=author
+3	1	0	0	0	25260997	0	0	25260997	0	0	2969	http://ap.ikt.khk.ee/wordpress/wp-admin/plugin-install.php?s=polyl&tab=search&type=term
+3	1	0	0	0	25261003	0	0	25261003	0	0	2994	http://ap.ikt.khk.ee/wordpress/wp-admin/plugin-install.php?s=+Demarle&tab=search&type=author
+3	12	4	0	0	25261023	0	0	25255988	0	0	87763	http://ap.ikt.khk.ee/wordpress/jargmine-lehe-teema/
+3	3	0	0	0	25261000	0	0	25229431	0	0	168053	http://ap.ikt.khk.ee/wordpress/wp-admin/index.php?page=wpbc-about
+3	1268	0	0	1	25220760	0	25220690	25220714	0	25220690	177928	http://ap.ikt.khk.ee/PHP/tingimused.php
+3	1	0	0	0	25086877	0	0	25086877	0	0	746	http://ap.ikt.khk.ee/veeb/html/praks5/struktuur.html
+3	1	0	0	0	25218134	0	0	25218134	0	0	0	http://ap.ikt.khk.ee/wordpress/2017/12/06/kiirklahvid/?preview_id=23&preview_nonce=b5ee39dbc2&post_format=standard&_thumbnail_id=24&preview=true
+3	1	0	0	0	25218131	0	0	25218131	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1512994263.3865599632263183593750
+3	1	0	0	0	25245434	0	0	25245434	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1514632446.6777029037475585937500
+3	37	2	3	0	25255987	25255986	0	25210648	25255958	0	580015	http://ap.ikt.khk.ee/wordpress/wp-admin/post.php?post=2&action=edit
+3	8	0	1	0	25255967	25255967	0	25197645	25255967	0	1028951	http://ap.ikt.khk.ee/wordpress/wp-admin/user-new.php
+3	2	2	2	1	25219338	25219338	25219338	25197637	25197637	25219338	111314	http://ap.ikt.khk.ee/wordpress/wp-login.php?redirect_to=http://ap.ikt.khk.ee/wordpress/wp-admin/&reauth=1
+3	2	0	0	0	25261007	0	0	25261007	0	0	118098	http://ap.ikt.khk.ee/wordpress/wp-admin/plugin-install.php?tab=plugin-information&plugin=wpml-to-polylang&
+3	5	0	2	0	25229431	25229431	0	25229430	25229431	0	501820	http://ap.ikt.khk.ee/wordpress/wp-admin/plugin-install.php?s=booking&tab=search&type=term
+3	4	0	1	0	25255973	25255973	0	25255972	25255973	0	241647	http://ap.ikt.khk.ee/wordpress/wp-admin/theme-install.php?browse=popular
+3	3	2	0	0	25218165	0	0	25218148	0	0	49024	http://ap.ikt.khk.ee/wordpress/2017/12/11/esimene-postitus/
+3	2	0	0	2	25260998	0	25261001	25260998	0	25260997	152668	http://ap.ikt.khk.ee/wordpress/wp-admin/plugin-install.php?s=&tab=search&type=term
+3	32	0	0	0	25261026	0	0	25261018	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-admin/post.php?post=34&action=edit&message=1
+3	1	0	0	0	25261018	0	0	25261018	0	0	0	http://ap.ikt.khk.ee/wordpress/wp-cron.php?doing_wp_cron=1515567532.0871610641479492187500
+3	0	0	0	3	0	0	25187798	0	0	25187797	0	http://ap.ikt.khk.ee/wordpress/wp-admin/setup-config.php?step=1
+3	2	0	0	0	25187797	0	0	25187768	0	0	5434	http://ap.ikt.khk.ee/wordpress/wp-admin/setup-config.php?step=0
+4	8088	9	14	129	25229486	25229431	25229464	25218032	25218131	25218032	173742968	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+4	1	1	0	0	25245434	0	0	25245434	0	0	60050	Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+4	15	14	0	1	25086877	0	25086876	25086876	0	25086876	16662	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+4	8	1	0	0	25210619	0	0	25187830	0	0	57868	WordPress/4.9; http://ap.ikt.khk.ee/wordpress
+4	2	2	0	0	25211194	0	0	25211194	0	0	109780	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+4	27	0	0	0	25261027	0	0	25210623	0	0	0	WordPress/4.9.1; http://ap.ikt.khk.ee/wordpress
+4	19	8	1	1	25218166	25218166	25218165	25218165	25218166	25218165	708789	Mozilla/5.0 (Windows NT 10.0; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0
+4	1	1	0	0	25253381	0	0	25253381	0	0	1331	Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+4	681	27	15	33	25212034	25210954	25210954	25187622	25187622	25187622	28240660	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+4	1	1	0	0	25217059	0	0	25217059	0	0	54250	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 YaBrowser/17.3.0.1785 Yowser/2.5 Safari/537.36
+4	2	2	0	0	25247335	0	0	25247335	0	0	119937	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+4	1	0	0	0	25247335	0	0	25247335	0	0	370	PHP/7.2.17
+4	1	1	0	0	25229374	0	0	25229374	0	0	56788	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+4	1087	50	40	97	25262618	25261028	25262617	25255720	25255720	25255720	23637941	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+4	7	0	1	1	25256116	25256116	25256116	25256116	25256116	25256116	919858	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0.2 Safari/604.4.7
+5	15	14	0	1	25086877	0	25086876	25086876	0	25086876	16662	193.40.62.2
+5	2	2	0	0	25229374	0	0	25217059	0	0	111038	185.36.102.114
+5	1	0	0	0	25247335	0	0	25247335	0	0	370	196.196.88.33
+5	2	2	0	0	25211194	0	0	25211194	0	0	109780	177.34.182.2
+5	438	32	23	54	25256000	25255996	25255997	25255720	25255720	25255720	15581491	80.235.122.130
+5	7	0	1	1	25256116	25256116	25256116	25256116	25256116	25256116	919858	90.191.98.23
+5	1	1	0	0	25253381	0	0	25253381	0	0	1331	159.89.184.166
+5	35	1	0	0	25261027	0	0	25187830	0	0	57868	193.40.62.9
+5	9437	62	47	206	25262618	25261028	25262617	25187622	25187622	25187622	210748867	193.40.62.14
+5	3	3	0	0	25247335	0	0	25245434	0	0	179987	45.58.117.232
+z	0	544	0	25262519	0
+z	1	37	0	25261182	37
+z	2	1296	0	25262580	69421
+z	3	4971	5	25262617	1209746
+z	4	2510	19	25262618	4720002
+z	5	459	88	25261179	20581574
+z	6	121	5	25261027	29786245
+z	7	2	0	25197652	11460457
+z	9	1	0	25223699	159899770
+c	200	9498	25262618
+c	301	3	25219577
+c	302	68	25261028
+c	304	443	25261026
+c	404	178	25262617
+c	500	84	25261109

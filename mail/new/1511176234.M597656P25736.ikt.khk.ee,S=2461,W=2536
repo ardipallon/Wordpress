@@ -1,0 +1,75 @@
+Return-Path: <>
+Delivered-To: ardipallon@ikt.khk.ee
+Received: from ikt.khk.ee
+	by ikt.khk.ee with LMTP id KEKXISq4ElqIZAAADXzx1A
+	for <ardipallon@ikt.khk.ee>; Mon, 20 Nov 2017 13:10:34 +0200
+Return-path: <>
+Envelope-to: ardipallon@ikt.khk.ee
+Delivery-date: Mon, 20 Nov 2017 13:10:34 +0200
+Received: from mailnull by ikt.khk.ee with local (Exim 4.89)
+	id 1eGjyE-0006h0-GS
+	for ardipallon@ikt.khk.ee; Mon, 20 Nov 2017 13:10:34 +0200
+X-Failed-Recipients: you@example.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@ikt.khk.ee>
+To: ardipallon@ikt.khk.ee
+Content-Type: multipart/report; report-type=delivery-status; boundary=1511176234-eximdsn-282350048
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1eGjyE-0006h0-GS@ikt.khk.ee>
+Date: Mon, 20 Nov 2017 13:10:34 +0200
+
+--1511176234-eximdsn-282350048
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  you@example.com
+    all hosts for 'example.com' have been failing for a long time (and retry time not reached)
+
+--1511176234-eximdsn-282350048
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; ikt.khk.ee
+
+Action: failed
+Final-Recipient: rfc822;you@example.com
+Status: 5.0.0
+
+--1511176234-eximdsn-282350048
+Content-type: message/rfc822
+
+Return-path: <ardipallon@ikt.khk.ee>
+Received: from ardipallon by ikt.khk.ee with local (Exim 4.89)
+	(envelope-from <ardipallon@ikt.khk.ee>)
+	id 1eGjyD-0006gV-B1
+	for you@example.com; Mon, 20 Nov 2017 13:10:33 +0200
+To: you@example.com
+Subject: [Ardi Pallon] Teade halduri e-postiaadressi muutusest
+X-PHP-Script: ap.ikt.khk.ee/wordpress/wp-admin/install.php for 193.40.62.14
+X-PHP-Originating-Script: 1123:class-phpmailer.php
+Date: Mon, 20 Nov 2017 11:10:33 +0000
+From: WordPress <wordpress@ap.ikt.khk.ee>
+Message-ID: <bf33b14aaf1dc42b71643d0baf252da2@ap.ikt.khk.ee>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Tere!
+
+Käesolevaga teatame, et veebilehe Ardi Pallon halduri e-postiaadress on muutunud.
+
+Uus e-postiaadress on ardi.pallon@khk.ee.
+
+See kiri saadeti aadressile you@example.com
+
+Tervitades
+Ardi Pallon
+http://ap.ikt.khk.ee/wordpress
+
+
+--1511176234-eximdsn-282350048--
